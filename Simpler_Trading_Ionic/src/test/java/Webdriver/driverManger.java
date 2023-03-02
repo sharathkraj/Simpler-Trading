@@ -34,7 +34,7 @@ public class driverManger {
 			    URL url = new URL("http://0.0.0.0:4723/wd/hub");
 			    driver= new AndroidDriver(url,caps);
 			    System.out.println("driver manager");
-			    Thread.sleep(10000);
+			    Thread.sleep(1000);
 				
 			}catch (Exception e) {
 		       
@@ -46,9 +46,4 @@ public class driverManger {
 	 public static AndroidDriver getDriver() {
 			return driver;
 		}
-	
-	
-	
-	
-
 }

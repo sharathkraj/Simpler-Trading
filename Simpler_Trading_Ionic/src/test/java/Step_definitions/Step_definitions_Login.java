@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import Constants.constants;
 import PageObject.AlertPage;
+import PageObject.ClassPage;
 import PageObject.LoginPage;
 import PageObject.MenuPage;
 import PageObject.TradingRO;
@@ -71,8 +72,20 @@ public class Step_definitions_Login extends driverManger {
 	}
 	@Then("User can able to Enter the Classes")
 	public void user_can_able_to_enter_the_classes() {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+		ClassPage.getInstance().enterClassRoom();
+		ClassPage.getInstance().clickClassRoom();
+		ClassPage.getInstance().enterRoom();
+		ClassPage.getInstance().ClickAlertbutton();
+		ClassPage.getInstance().ClickChatButton();
+		ClassPage.getInstance().ClickUserButton();
+		ClassPage.getInstance().ClickFilesButton();
+		ClassPage.getInstance().ViewFiles();
+		ClassPage.getInstance().ClickDownloadButton();
+		ClassPage.getInstance().ClickScheduleButton();
+		ClassPage.getInstance().ClickNextSchedule();
+		ClassPage.getInstance().ClickSettingButton();
+		ClassPage.getInstance().ClickPushButton();
+		ClassPage.getInstance().ClickExitButton();
 	}
 	@Then("User can able to Enter the Alerts")
 	public void user_can_able_to_enter_the_alerts() {
