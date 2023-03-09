@@ -4,12 +4,10 @@ import java.util.Properties;
 
 import org.openqa.selenium.support.PageFactory;
 
-import Constants.constants;
 import PageObject.AlertPage;
 import PageObject.ClassPage;
 import PageObject.LoginPage;
 import PageObject.MenuPage;
-import PageObject.TradingRO;
 import Webdriver.driverManger;
 
 
@@ -24,22 +22,19 @@ public class commonUtils {
 		Properties properties = new Properties();
 		try {
 			
-			properties.load(getClass().getResourceAsStream("/config.properties"));
+//			properties.load(getClass().getResourceAsStream("/config.properties"));
 			
 		}catch (Exception e) {
 			e.printStackTrace();
 		}
-		
-		constants.UserName = properties.getProperty("UserName");
-		constants.PassWord =  properties.getProperty("PassWord");
 	}
 	
-	public void initWebElements() {
-		PageFactory.initElements(driverManger.getDriver(), LoginPage.getInstance());
-		PageFactory.initElements(driverManger.getDriver(), TradingRO.getInstance());
-		PageFactory.initElements(driverManger.getDriver(), ClassPage.getInstance());
-		PageFactory.initElements(driverManger.getDriver(), AlertPage.getInstance());
-		PageFactory.initElements(driverManger.getDriver(), MenuPage.getInstance());
+	public static void initWebElements() {
+		System.out.println("Elements Initializes");
+		PageFactory.initElements(driverManger.getDriver(),LoginPage.class);
+		PageFactory.initElements(driverManger.getDriver(),AlertPage.class);
+		PageFactory.initElements(driverManger.getDriver(),ClassPage.class);
+		PageFactory.initElements(driverManger.getDriver(),MenuPage.class);
 		
 	}
 }
