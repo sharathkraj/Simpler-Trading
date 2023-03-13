@@ -23,29 +23,34 @@ public class tap_click {
 	
 	public static void alerttab(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
-		action.tap(PointOption.point(234,1982)).release().perform();
+		action.tap(PointOption.point(101,2277)).release().perform();
 	}
-	public static void alerttab1(PerformsTouchActions driver) {
+	public static void options(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
-		action.tap(PointOption.point(234,1982)).release().perform();
+		action.tap(PointOption.point(573,476)).release().perform();
 	}
-	public static void user(PerformsTouchActions driver) {
+	public static void alert_search(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
-		action.tap(PointOption.point(507,1979)).release().perform();
+		action.tap(PointOption.point(994,222)).release().perform();
 	}
-	public static void searchclick(PerformsTouchActions driver) {
+	public static void user_click(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
-		action.tap(PointOption.point(992,215)).release().perform();
+		action.tap(PointOption.point(427,530)).release().perform();	
 	}
-	public static void filterlist(PerformsTouchActions driver) {
+	
+	public static void user_close(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
-		action.tap(PointOption.point(430,480)).release().perform();
+		action.tap(PointOption.point(985,206)).release().perform();	
+	}	
+	public static void back_user(PerformsTouchActions driver) {
+		TouchAction action = new TouchAction(driver);
+		action.tap(PointOption.point(80,225)).release().perform();
 	}
-	public static void close(PerformsTouchActions driver) {
+	public static void scheduleT(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
 		action.tap(PointOption.point(992,196)).release().perform();
 	}
-	public static void files(PerformsTouchActions driver) {
+	public static void settings(PerformsTouchActions driver) {
 		TouchAction action = new TouchAction(driver);
 		action.tap(PointOption.point(653,1918)).release().perform();
 	}

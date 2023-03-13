@@ -73,14 +73,11 @@ public class LoginPage {
 	 @FindBy(xpath = "//android.widget.Button[@text='filter outline']")
 	 public static  WebElement Videofilter3;
 	   
-	 @FindBy(xpath = "//android.widget.Image[@bounds='[53,1988][115,2050]']")
-	 public static  WebElement DisableShowBookMark;
-	   
 	 @FindBy(xpath = "//android.widget.EditText[@clickable='true']")
 	 public static  WebElement HomeSearch;
 	 
 	   
-	 @FindBy(xpath = "//android.widget.TextView[@text='$Mar 08']")
+	 @FindBy(xpath = "//android.widget.TextView[@text='$Mar 10']")
 	 public static  WebElement HomeFeed;
 	   
 //	 @FindBy(xpath = "//android.view.View[@text='Next Video']")
@@ -97,7 +94,12 @@ public class LoginPage {
 	 public static  WebElement Back;
 		 
 	   
-	 
+}
+
+
+
+
+
 //	 public void enterUserName(String UserName) {
 //		   
 //		   USERNAME.sendKeys(UserName);
@@ -211,6 +213,6 @@ public class LoginPage {
 //	 
 
    
-}
+
 
 		

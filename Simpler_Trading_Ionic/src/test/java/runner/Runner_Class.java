@@ -7,7 +7,8 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/feature_files/Ionic.feature", glue = "Step_definitions", 
-                  dryRun = false, monochrome = true)
+                 plugin = {"json:test-output/Simpler-reports/Simpler.json","html:test-output/Simpler-reports/Simpler.html"},
+                 dryRun = false, monochrome = true)
 
 public class Runner_Class {
 

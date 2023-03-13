@@ -75,12 +75,11 @@ public class Step_definitions_Login extends driverManger {
 		Thread.sleep(1000);
 //		System.out.println(" 10 ");
 		tap_click.showBookmark(getDriver());
-//		LoginPage.ShowBookMark.click();
 		
 		
 		Thread.sleep(1000);
 //		System.out.println(" 11 ");
-		LoginPage. ShowBookMark.click();
+		LoginPage.ShowBookMark.click();
 		
 		Thread.sleep(1000);
 //		System.out.println(" 12 ");
@@ -96,7 +95,6 @@ public class Step_definitions_Login extends driverManger {
 		Thread.sleep(1000);
 //		System.out.println(" 14 ");
 		tap_click.showBookmark(getDriver());
-//		LoginPage. DisableShowBookMark.click();
 		
 		Thread.sleep(1000);
 //		System.out.println(" 15 ");
@@ -117,17 +115,14 @@ public class Step_definitions_Login extends driverManger {
 		
 		Thread.sleep(1000);
 //		System.out.println(" 19 ");
-//		LoginPage.NextVideo.click();
 		tap_click.nextVideo(getDriver());
 		
 		Thread.sleep(1000);
 //		System.out.println(" 20 ");
-//		LoginPage.NextVideo.click();
 		tap_click.nextVideo(getDriver());
 		
 		Thread.sleep(1000);
 //		System.out.println(" 21 ");
-//		LoginPage. Back.click();
 		tap_click.back(getDriver());
 		
 		System.out.println("Home Page completed Sucessfully");
@@ -141,10 +136,9 @@ public class Step_definitions_Login extends driverManger {
 		System.out.println("Enter the Alert Sucessfully");
 		LOGGER.info("Enter the Alert Sucessfully");
 		
-//		PageFactory.initElements(driverManger.getDriver(),AlertPage.class);
 		Thread.sleep(1000);
 		System.out.println(" 1 ");	
-		AlertPage.AlertTab.click();
+		tap_click.alerttab(getDriver());
 		
 		Thread.sleep(1000);
 		System.out.println(" 2 ");
@@ -160,11 +154,11 @@ public class Step_definitions_Login extends driverManger {
 		
 		Thread.sleep(1000);
 		System.out.println(" 5 ");
-		AlertPage.AlertFilter1.click();
+		AlertPage.AlertFilter.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 6 ");
-		AlertPage.ChooseAll.click();
+		AlertPage.oneAlertenable.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 7 ");
@@ -172,31 +166,84 @@ public class Step_definitions_Login extends driverManger {
 		
 		Thread.sleep(1000);
 		System.out.println(" 8 ");
-		AlertPage.details.click();
+		AlertPage.AlertFilter.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 9 ");
-		AlertPage.bookMark.click();
+		AlertPage.ChooseAll.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 10 ");
-		AlertPage.bookMark1.click();
+		AlertPage.Apply1.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 11 ");
-		AlertPage.back.click();
+		AlertPage.details.click();
 		
+				
 		Thread.sleep(1000);
 		System.out.println(" 12 ");
-		AlertPage.Search.sendKeys("Trading");
+		AlertPage.bookMark.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 13 ");
-		AlertPage.AlertFilter2.click();
+		AlertPage.back.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 14 ");
-		AlertPage.show_bookmark.click();
+		AlertPage.AlertFilter.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 15 ");
+		Swipes.swipetoclick(getDriver());
+		
+		
+		Thread.sleep(1000);
+		System.out.println(" 16 ");
+		tap_click.back(getDriver());
+		
+		
+		Thread.sleep(1000);
+		System.out.println(" 17 ");
+		AlertPage.details.click();
+		
+				
+		Thread.sleep(1000);
+		System.out.println(" 18 ");
+		AlertPage.bookMark1.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 19 ");
+		AlertPage.back.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 20 ");
+		AlertPage.AlertFilter.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 21 ");
+		Swipes.swipetoclick(getDriver());
+		
+		Thread.sleep(1000);
+		System.out.println(" 22 ");
+		tap_click.back(getDriver());
+		
+		
+		Thread.sleep(1000);
+		System.out.println(" 23 ");
+		AlertPage.Search.sendKeys("Trading");
+		
+		Thread.sleep(1000);
+		System.out.println(" 24 ");
+		AlertPage.details.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 25 ");
+		AlertPage.back.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 26 ");
+		AlertPage.Search.clear();
 		 
 		System.out.println("exit the Alert Sucessfully");
 		LOGGER.info("exit the Alert Sucessfully");
@@ -206,79 +253,98 @@ public class Step_definitions_Login extends driverManger {
 		LOGGER.info("enter the Tradingroom Sucessfully");
 		
 		Thread.sleep(1000);
-		System.out.println(" 15 ");
+		System.out.println(" 27 ");
 		AlertPage.TradingRoomentry.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 16 ");
-		AlertPage.Options.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 17 ");
-		AlertPage.RoomEntering.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 18 ");
-		AlertPage.ALERT_BUTTON.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 19 ");
-		AlertPage.Alert_search.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 20 ");
-		AlertPage.search_Alert.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 21 ");
-		AlertPage.CHAT_BUTTON.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 22 ");
-		AlertPage.USERS_BUTTON.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 23 ");
-		AlertPage.User_Search.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 24 ");
-		AlertPage.FILES_BUTTON.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 25 ");
-		AlertPage.ViewFiles.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 26 ");
-		AlertPage.DOWNLOAD_BUTTON.click();
-		
-		Thread.sleep(1000);
-		System.out.println(" 27 ");
-		AlertPage.SCHEDULE_BUTTON.click();
-		
-		Thread.sleep(1000);
 		System.out.println(" 28 ");
-		AlertPage.NextSchedule.click();
+		tap_click.options(getDriver());
 		
 		Thread.sleep(1000);
 		System.out.println(" 29 ");
-		AlertPage.SettingsButton.click();
+		AlertPage.RoomEntering.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 30 ");
-		AlertPage.pushNotification.click();
+		AlertPage.ALERT_BUTTON.click();
 		
 		Thread.sleep(1000);
 		System.out.println(" 31 ");
-		AlertPage.Disable.click();
+//		AlertPage.Alert_search.click();
+		tap_click.alert_search(getDriver());
 		
-		Thread.sleep(1000);
-		System.out.println(" 32 ");
-		AlertPage.Back.click();
+//		Thread.sleep(1000);
+//		System.out.println(" 32 ");
+//		AlertPage.search_Alert.sendKeys("sam");
+		
+		
 		
 		Thread.sleep(1000);
 		System.out.println(" 33 ");
+		AlertPage.CHAT_BUTTON.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 34 ");
+		AlertPage.USERS_BUTTON.click();
+		
+//		Thread.sleep(10000);
+//		System.out.println(" 35 ");
+//		AlertPage.User_Search.click();
+//		
+//		Thread.sleep(1000);
+//		System.out.println(" 36 ");
+//		AlertPage.User_Search1.sendKeys("woo");
+//		
+//		Thread.sleep(1000);
+//		System.out.println(" 37 ");
+//		AlertPage.User_Click.click();
+//		
+//		Thread.sleep(1000);
+//		System.out.println(" 38 ");
+//		AlertPage.User_Close.click();
+//		
+//		Thread.sleep(1000);
+//		System.out.println(" 39 ");
+//		AlertPage.User_Search1.clear();
+		
+		Thread.sleep(1000);
+		System.out.println(" 40 ");
+		AlertPage.FILES_BUTTON.click();
+//		
+//		Thread.sleep(10000);
+//		System.out.println(" 41 ");
+//		AlertPage.ViewFiles.click();
+//		
+//		Thread.sleep(10000);
+//		System.out.println(" 42 ");
+//		AlertPage.DOWNLOAD_BUTTON.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 43 ");
+		AlertPage.SCHEDULE_BUTTON.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 44 ");
+		AlertPage.NextSchedule.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 45 ");
+		AlertPage.SettingsButton.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 46 ");
+		AlertPage.pushNotification.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 47 ");
+		AlertPage.Disable.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 48 ");
+		AlertPage.Back.click();
+		
+		Thread.sleep(1000);
+		System.out.println(" 49 ");
 		AlertPage.confirm.click();
 		
 		System.out.println("exit the Tradingroom Sucessfully");
@@ -292,62 +358,61 @@ public class Step_definitions_Login extends driverManger {
 		System.out.println("Enter the Classes Sucessfully");
 		LOGGER.info("enter the Classes Sucessfully");
 		
-//		PageFactory.initElements(driverManger.getDriver(),ClassPage.class);
 		
 		Thread.sleep(1000);
-		System.out.println(" 34 ");
+		System.out.println(" 43 ");
 		ClassPage.ClassesEntry.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 35 ");
+		System.out.println(" 44 ");
 		ClassPage.internalUseOnly.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 36 ");
+		System.out.println(" 45 ");
 		ClassPage.RoomEntering.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 37 ");
+		System.out.println(" 46 ");
 		ClassPage.ALERT_BUTTON.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 38 ");
+		System.out.println(" 47 ");
 		ClassPage.Alert_search.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 39 ");
+		System.out.println(" 48 ");
 		ClassPage.search_Alert.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 40 ");
+		System.out.println(" 49 ");
 		ClassPage.CHAT_BUTTON.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 41 ");
+		System.out.println(" 50 ");
 		ClassPage.USERS_BUTTON.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 42 ");
+		System.out.println(" 51 ");
 		ClassPage.FILES_BUTTON.click();
 //		ClassPage.ViewFiles.click();
 //		ClassPage.DOWNLOAD_BUTTON.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 43 ");
+		System.out.println(" 52 ");
 		ClassPage.SCHEDULE_BUTTON.click();
 		
 //		ClassPage. NextSchedule.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 44 ");
+		System.out.println(" 53 ");
 		ClassPage.SettingsButton.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 45 ");
+		System.out.println(" 54 ");
 		ClassPage.pushNotification_enable.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 46 ");
+		System.out.println(" 55 ");
 		ClassPage.Disable.click();
 		
 		System.out.println("Exit the Classes Sucessfully");
@@ -358,35 +423,35 @@ public class Step_definitions_Login extends driverManger {
 		LOGGER.info("enter the Menu Sucessfully");
 		
 		Thread.sleep(1000);
-		System.out.println(" 47 ");
+		System.out.println(" 56 ");
 		ClassPage.MenuClick.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 48 ");
+		System.out.println(" 57 ");
 		ClassPage.Privacy.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 49 ");
+		System.out.println(" 58 ");
 		ClassPage.Help.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 50 ");
+		System.out.println(" 59 ");
 		ClassPage.Account.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 51 ");
+		System.out.println(" 60 ");
 		ClassPage.PushNotificatiosn.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 52 ");
+		System.out.println(" 61 ");
 		ClassPage.DisableNotifications.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 53 ");
+		System.out.println(" 62 ");
 		ClassPage.EnableNotifications.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 54 ");
+		System.out.println(" 63 ");
 		ClassPage.BackMenu.click();
 		
 		System.out.println("Exit the Menu Sucessfully");
@@ -399,15 +464,13 @@ public class Step_definitions_Login extends driverManger {
 	@Then("User can able to Enter the Logout the Applications")
 	public void user_can_able_to_enter_the_logout_the_applications() throws InterruptedException {
 	   
-			
-		PageFactory.initElements(driverManger.getDriver(),MenuPage.class);
 		
 		Thread.sleep(1000);
-		System.out.println(" 55 ");
+		System.out.println(" 64 ");
 		MenuPage.LOGOUT_BUTTON.click();
 		
 		Thread.sleep(1000);
-		System.out.println(" 56 ");
+		System.out.println(" 65 ");
 		MenuPage.CONFIRM_BUTTON.click();
 		
 		System.out.println("Logout Sucessfully");
