@@ -22,7 +22,7 @@ public class ClassPage {
 //	}
 	
 	
-	@FindBy(xpath = "//android.view.View[@text='school outline']")
+	@FindBy(xpath = "//android.widget.Image[@text='school outline']")
 	public static  WebElement ClassesEntry;
 	   
 	@FindBy(xpath = "//android.view.View[@bounds='[281,680][990,863]']")
@@ -30,17 +30,35 @@ public class ClassPage {
 	   
 	@FindBy(xpath = "//android.widget.Button[@text='ENTER ROOM']")
 	public static  WebElement RoomEntering;
+	
+	
+	@FindBy(xpath ="//android.widget.EditText[@checkable='false']")
+	public static WebElement Class_search;
+	
+	@FindBy(xpath ="//android.widget.Button[@text='search sharp']")
+	public static WebElement Class_searchclick;
+	
+	
 	 
 	  
 	@FindBy(xpath = "//android.widget.Image[@bounds='[202,2258][267,2331]']")
 	public static  WebElement ALERT_BUTTON;
 
 	
-	@FindBy(xpath = "//android.widget.Image[@bounds='[202,2258][267,2331]']")
+	@FindBy(xpath = "//android.widget.Image[@text='search sharp']")
 	public static  WebElement Alert_search;
 	
-	@FindBy(xpath = "//android.widget.Image[@bounds='[168,157][916,278]']")
+	@FindBy(xpath = "//android.widget.EditText[@bounds='[168,157][916,278]']")
 	public static  WebElement search_Alert;
+	
+	
+	@FindBy(xpath = "//android.widget.Image[@text='search sharp']")
+	public static  WebElement Class_Profile;
+	
+	@FindBy(xpath = "//android.widget.EditText[@bounds='[168,157][916,278]']")
+	public static  WebElement Class_ProfileClose;
+	
+	
 	
 	@FindBy(xpath = "//android.widget.Image[@bounds='[337,2258][405,2331]']")
 	public static  WebElement CHAT_BUTTON;

@@ -835,3 +835,1046 @@
 13 Mar 2023 16:15:37,084 main - Launch driver
 13 Mar 2023 16:15:37,085 main - driver start !!
 13 Mar 2023 16:15:37,094 main - driver running !!
+13 Mar 2023 17:03:25,621 main - before Scenarios
+13 Mar 2023 17:03:25,623 main - Launch driver
+13 Mar 2023 17:03:25,624 main - driver start !!
+13 Mar 2023 17:03:25,634 main - driver running !!
+13 Mar 2023 17:03:53,191 main - Login Sucessfully
+13 Mar 2023 17:03:53,191 main - Enter the Homepage Sucessfully
+13 Mar 2023 17:04:49,662 main - Home Page completed Sucessfully
+13 Mar 2023 17:04:49,663 main - Enter the Alert Sucessfully
+13 Mar 2023 17:05:40,206 main - exit the Alert Sucessfully
+13 Mar 2023 17:05:40,206 main - enter the Tradingroom Sucessfully
+13 Mar 2023 17:14:48,259 main - before Scenarios
+13 Mar 2023 17:14:48,260 main - Launch driver
+13 Mar 2023 17:14:48,263 main - driver start !!
+13 Mar 2023 17:14:48,275 main - driver running !!
+13 Mar 2023 17:15:16,554 main - Login Sucessfully
+13 Mar 2023 17:15:16,554 main - Enter the Homepage Sucessfully
+13 Mar 2023 17:16:12,801 main - Home Page completed Sucessfully
+13 Mar 2023 17:16:12,805 main - Enter the Alert Sucessfully
+13 Mar 2023 17:17:00,694 main - exit the Alert Sucessfully
+13 Mar 2023 17:17:00,695 main - enter the Tradingroom Sucessfully
+13 Mar 2023 17:19:58,383 main - before Scenarios
+13 Mar 2023 17:19:58,386 main - Launch driver
+13 Mar 2023 17:19:58,390 main - driver start !!
+13 Mar 2023 17:19:58,404 main - driver running !!
+13 Mar 2023 17:20:26,854 main - Login Sucessfully
+13 Mar 2023 17:20:26,854 main - Enter the Homepage Sucessfully
+13 Mar 2023 17:21:19,044 main - Home Page completed Sucessfully
+13 Mar 2023 17:21:19,045 main - Enter the Alert Sucessfully
+13 Mar 2023 17:22:05,874 main - exit the Alert Sucessfully
+13 Mar 2023 17:22:05,874 main - enter the Tradingroom Sucessfully
+13 Mar 2023 17:22:37,893 main - exit the Tradingroom Sucessfully
+13 Mar 2023 17:22:37,893 main - enter the Classes Sucessfully
+13 Mar 2023 18:12:53,855 main - before Scenarios
+13 Mar 2023 18:12:53,857 main - Launch driver
+13 Mar 2023 18:12:53,859 main - driver start !!
+13 Mar 2023 18:12:53,872 main - driver running !!
+13 Mar 2023 18:13:25,523 main - Login Sucessfully
+13 Mar 2023 18:13:25,523 main - Enter the Homepage Sucessfully
+13 Mar 2023 18:14:25,377 main - Home Page completed Sucessfully
+13 Mar 2023 18:14:25,378 main - Enter the Alert Sucessfully
+13 Mar 2023 18:15:13,768 main - exit the Alert Sucessfully
+13 Mar 2023 18:15:13,769 main - enter the Tradingroom Sucessfully
+13 Mar 2023 18:15:49,269 main - exit the Tradingroom Sucessfully
+13 Mar 2023 18:15:49,270 main - enter the Classes Sucessfully
+13 Mar 2023 18:17:02,772 main - before Scenarios
+13 Mar 2023 18:17:02,773 main - Launch driver
+13 Mar 2023 18:17:02,775 main - driver start !!
+13 Mar 2023 18:17:02,783 main - driver running !!
+13 Mar 2023 18:17:31,821 main - Login Sucessfully
+13 Mar 2023 18:17:31,821 main - Enter the Homepage Sucessfully
+13 Mar 2023 18:18:23,837 main - Home Page completed Sucessfully
+13 Mar 2023 18:18:23,839 main - Enter the Alert Sucessfully
+13 Mar 2023 18:19:10,757 main - exit the Alert Sucessfully
+13 Mar 2023 18:19:10,757 main - enter the Tradingroom Sucessfully
+13 Mar 2023 18:19:46,267 main - exit the Tradingroom Sucessfully
+13 Mar 2023 18:19:46,269 main - enter the Classes Sucessfully
+13 Mar 2023 18:20:42,836 main - before Scenarios
+13 Mar 2023 18:20:42,837 main - Launch driver
+13 Mar 2023 18:20:42,840 main - driver start !!
+13 Mar 2023 18:20:42,849 main - driver running !!
+13 Mar 2023 18:21:11,343 main - Login Sucessfully
+13 Mar 2023 18:21:11,343 main - Enter the Homepage Sucessfully
+13 Mar 2023 18:22:03,996 main - Home Page completed Sucessfully
+13 Mar 2023 18:22:03,997 main - Enter the Alert Sucessfully
+13 Mar 2023 18:22:52,714 main - exit the Alert Sucessfully
+13 Mar 2023 18:22:52,714 main - enter the Tradingroom Sucessfully
+13 Mar 2023 18:23:23,923 main - exit the Tradingroom Sucessfully
+13 Mar 2023 18:23:23,924 main - enter the Classes Sucessfully
+13 Mar 2023 18:29:52,341 main - before Scenarios
+13 Mar 2023 18:29:52,342 main - Launch driver
+13 Mar 2023 18:29:52,344 main - driver start !!
+13 Mar 2023 18:29:52,352 main - driver running !!
+13 Mar 2023 18:30:21,409 main - Login Sucessfully
+13 Mar 2023 18:30:21,409 main - Enter the Homepage Sucessfully
+13 Mar 2023 18:31:19,527 main - Home Page completed Sucessfully
+13 Mar 2023 18:31:19,529 main - Enter the Alert Sucessfully
+13 Mar 2023 18:32:10,154 main - exit the Alert Sucessfully
+13 Mar 2023 18:32:10,155 main - enter the Tradingroom Sucessfully
+13 Mar 2023 18:32:44,518 main - exit the Tradingroom Sucessfully
+13 Mar 2023 18:32:44,519 main - enter the Classes Sucessfully
+13 Mar 2023 18:39:22,988 main - before Scenarios
+13 Mar 2023 18:39:22,990 main - Launch driver
+13 Mar 2023 18:39:22,991 main - driver start !!
+13 Mar 2023 18:39:23,000 main - driver running !!
+13 Mar 2023 18:58:09,679 main - before Scenarios
+13 Mar 2023 18:58:09,680 main - Launch driver
+13 Mar 2023 18:58:09,682 main - driver start !!
+13 Mar 2023 18:58:09,690 main - driver running !!
+13 Mar 2023 18:58:35,935 main - Login Sucessfully
+13 Mar 2023 18:58:35,937 main - Enter the Homepage Sucessfully
+13 Mar 2023 18:59:29,658 main - Home Page completed Sucessfully
+13 Mar 2023 18:59:29,659 main - Enter the Alert Sucessfully
+13 Mar 2023 19:00:27,494 main - exit the Alert Sucessfully
+13 Mar 2023 19:00:27,494 main - enter the Tradingroom Sucessfully
+13 Mar 2023 19:01:04,762 main - exit the Tradingroom Sucessfully
+13 Mar 2023 19:01:04,763 main - enter the Classes Sucessfully
+13 Mar 2023 19:01:31,785 main - Exit the Classes Sucessfully
+13 Mar 2023 19:01:31,785 main - enter the Menu Sucessfully
+13 Mar 2023 19:02:06,052 main - before Scenarios
+13 Mar 2023 19:02:06,055 main - Launch driver
+13 Mar 2023 19:02:06,058 main - driver start !!
+13 Mar 2023 19:02:06,070 main - driver running !!
+13 Mar 2023 19:02:32,987 main - Login Sucessfully
+13 Mar 2023 19:02:32,987 main - Enter the Homepage Sucessfully
+13 Mar 2023 19:03:26,110 main - Home Page completed Sucessfully
+13 Mar 2023 19:03:26,112 main - Enter the Alert Sucessfully
+13 Mar 2023 19:04:16,117 main - exit the Alert Sucessfully
+13 Mar 2023 19:04:16,117 main - enter the Tradingroom Sucessfully
+13 Mar 2023 19:04:49,828 main - exit the Tradingroom Sucessfully
+13 Mar 2023 19:04:49,829 main - enter the Classes Sucessfully
+13 Mar 2023 19:05:16,395 main - Exit the Classes Sucessfully
+13 Mar 2023 19:05:16,395 main - enter the Menu Sucessfully
+13 Mar 2023 19:05:27,621 main - Exit the Menu Sucessfully
+13 Mar 2023 19:05:31,038 main - Logout Sucessfully
+14 Mar 2023 18:14:29,759 main - before Scenarios
+14 Mar 2023 18:14:29,762 main - Launch driver
+14 Mar 2023 18:14:29,763 main - driver start !!
+14 Mar 2023 18:14:29,772 main - driver running !!
+14 Mar 2023 18:14:57,115 main - Login Sucessfully
+14 Mar 2023 18:14:57,116 main - Enter the Homepage Sucessfully
+14 Mar 2023 18:17:00,358 main - before Scenarios
+14 Mar 2023 18:17:00,358 main - Launch driver
+14 Mar 2023 18:17:00,360 main - driver start !!
+14 Mar 2023 18:17:00,367 main - driver running !!
+14 Mar 2023 18:17:26,958 main - Login Sucessfully
+14 Mar 2023 18:17:26,958 main - Enter the Homepage Sucessfully
+14 Mar 2023 18:18:23,066 main - Home Page completed Sucessfully
+14 Mar 2023 18:18:23,068 main - Enter the Alert Sucessfully
+14 Mar 2023 18:19:22,972 main - before Scenarios
+14 Mar 2023 18:19:22,973 main - Launch driver
+14 Mar 2023 18:19:22,974 main - driver start !!
+14 Mar 2023 18:19:22,982 main - driver running !!
+14 Mar 2023 18:19:50,919 main - Login Sucessfully
+14 Mar 2023 18:19:50,920 main - Enter the Homepage Sucessfully
+14 Mar 2023 18:20:48,563 main - Home Page completed Sucessfully
+14 Mar 2023 18:20:48,565 main - Enter the Alert Sucessfully
+14 Mar 2023 18:21:42,468 main - exit the Alert Sucessfully
+14 Mar 2023 18:21:42,468 main - enter the Tradingroom Sucessfully
+14 Mar 2023 18:22:15,514 main - exit the Tradingroom Sucessfully
+14 Mar 2023 18:22:15,515 main - enter the Classes Sucessfully
+14 Mar 2023 18:22:42,058 main - Exit the Classes Sucessfully
+14 Mar 2023 18:22:42,058 main - enter the Menu Sucessfully
+14 Mar 2023 18:35:48,091 main - before Scenarios
+14 Mar 2023 18:35:48,093 main - Launch driver
+14 Mar 2023 18:35:48,095 main - driver start !!
+14 Mar 2023 18:35:48,104 main - driver running !!
+14 Mar 2023 18:36:16,189 main - Login Sucessfully
+14 Mar 2023 18:36:16,189 main - Enter the Homepage Sucessfully
+14 Mar 2023 18:39:58,530 main - before Scenarios
+14 Mar 2023 18:39:58,532 main - Launch driver
+14 Mar 2023 18:39:58,533 main - driver start !!
+14 Mar 2023 18:39:58,546 main - driver running !!
+14 Mar 2023 18:40:26,477 main - Login Sucessfully
+14 Mar 2023 18:40:26,477 main - Enter the Homepage Sucessfully
+14 Mar 2023 18:41:37,075 main - Home Page completed Sucessfully
+14 Mar 2023 18:41:37,077 main - Enter the Alert Sucessfully
+14 Mar 2023 18:42:43,541 main - exit the Alert Sucessfully
+14 Mar 2023 18:42:43,541 main - enter the Tradingroom Sucessfully
+14 Mar 2023 18:43:17,343 main - exit the Tradingroom Sucessfully
+14 Mar 2023 18:43:17,344 main - enter the Classes Sucessfully
+14 Mar 2023 18:43:43,175 main - Exit the Classes Sucessfully
+14 Mar 2023 18:43:43,176 main - enter the Menu Sucessfully
+14 Mar 2023 18:43:52,910 main - Exit the Menu Sucessfully
+14 Mar 2023 18:43:56,133 main - Logout Sucessfully
+14 Mar 2023 19:04:29,840 main - before Scenarios
+14 Mar 2023 19:04:29,841 main - Launch driver
+14 Mar 2023 19:04:29,844 main - driver start !!
+14 Mar 2023 19:04:29,849 main - driver running !!
+15 Mar 2023 11:17:17,659 main - before Scenarios
+15 Mar 2023 11:17:17,661 main - Launch driver
+15 Mar 2023 11:17:17,664 main - driver start !!
+15 Mar 2023 11:17:17,674 main - driver running !!
+15 Mar 2023 11:17:45,695 main - Login Sucessfully
+15 Mar 2023 11:17:45,695 main - Enter the Homepage Sucessfully
+15 Mar 2023 11:25:56,204 main - before Scenarios
+15 Mar 2023 11:25:56,205 main - Launch driver
+15 Mar 2023 11:25:56,207 main - driver start !!
+15 Mar 2023 11:25:56,218 main - driver running !!
+15 Mar 2023 11:26:27,635 main - Login Sucessfully
+15 Mar 2023 11:26:27,635 main - Enter the Homepage Sucessfully
+15 Mar 2023 11:27:35,578 main - Home Page completed Sucessfully
+15 Mar 2023 11:27:35,580 main - Enter the Alert Sucessfully
+15 Mar 2023 11:28:54,997 main - exit the Alert Sucessfully
+15 Mar 2023 11:28:54,997 main - enter the Tradingroom Sucessfully
+15 Mar 2023 11:29:29,956 main - exit the Tradingroom Sucessfully
+15 Mar 2023 11:29:29,957 main - enter the Classes Sucessfully
+15 Mar 2023 11:29:55,601 main - Exit the Classes Sucessfully
+15 Mar 2023 11:29:55,601 main - enter the Menu Sucessfully
+15 Mar 2023 18:24:28,488 main - before Scenarios
+15 Mar 2023 18:24:28,490 main - Launch driver
+15 Mar 2023 18:24:28,491 main - driver start !!
+15 Mar 2023 18:24:28,501 main - driver running !!
+15 Mar 2023 18:24:59,124 main - Login Sucessfully
+15 Mar 2023 18:24:59,124 main - Enter the Homepage Sucessfully
+15 Mar 2023 18:26:13,614 main - Home Page completed Sucessfully
+15 Mar 2023 18:26:13,616 main - Enter the Alert Sucessfully
+15 Mar 2023 18:27:01,143 main - before Scenarios
+15 Mar 2023 18:27:01,145 main - Launch driver
+15 Mar 2023 18:27:01,147 main - driver start !!
+15 Mar 2023 18:27:01,154 main - driver running !!
+15 Mar 2023 18:27:28,347 main - Login Sucessfully
+15 Mar 2023 18:27:28,347 main - Enter the Homepage Sucessfully
+16 Mar 2023 11:15:56,722 main - before Scenarios
+16 Mar 2023 11:15:56,728 main - Launch driver
+16 Mar 2023 11:15:56,730 main - driver start !!
+16 Mar 2023 11:15:56,738 main - driver running !!
+16 Mar 2023 11:16:28,613 main - Login Sucessfully
+16 Mar 2023 11:16:28,613 main - Enter the Homepage Sucessfully
+16 Mar 2023 11:17:47,170 main - before Scenarios
+16 Mar 2023 11:17:47,172 main - Launch driver
+16 Mar 2023 11:17:47,176 main - driver start !!
+16 Mar 2023 11:17:47,186 main - driver running !!
+16 Mar 2023 11:18:13,803 main - Login Sucessfully
+16 Mar 2023 11:18:13,803 main - Enter the Homepage Sucessfully
+16 Mar 2023 11:19:27,997 main - Home Page completed Sucessfully
+16 Mar 2023 11:19:27,998 main - Enter the Alert Sucessfully
+16 Mar 2023 11:20:49,974 main - exit the Alert Sucessfully
+16 Mar 2023 11:20:49,974 main - enter the Tradingroom Sucessfully
+16 Mar 2023 11:21:25,953 main - exit the Tradingroom Sucessfully
+16 Mar 2023 11:21:25,954 main - enter the Classes Sucessfully
+16 Mar 2023 11:21:51,761 main - Exit the Classes Sucessfully
+16 Mar 2023 11:21:51,761 main - enter the Menu Sucessfully
+16 Mar 2023 11:22:05,714 main - Exit the Menu Sucessfully
+16 Mar 2023 11:22:11,380 main - Logout Sucessfully
+16 Mar 2023 12:44:32,086 main - before Scenarios
+16 Mar 2023 12:44:32,088 main - Launch driver
+16 Mar 2023 12:44:32,090 main - driver start !!
+16 Mar 2023 12:44:32,099 main - driver running !!
+16 Mar 2023 12:44:57,483 main - Login Sucessfully
+16 Mar 2023 12:44:57,483 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:46:24,159 main - Home Page completed Sucessfully
+16 Mar 2023 12:46:24,161 main - Enter the Alert Sucessfully
+16 Mar 2023 12:48:16,495 main - before Scenarios
+16 Mar 2023 12:48:16,496 main - Launch driver
+16 Mar 2023 12:48:16,498 main - driver start !!
+16 Mar 2023 12:48:16,509 main - driver running !!
+16 Mar 2023 12:48:42,961 main - Login Sucessfully
+16 Mar 2023 12:48:42,961 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:49:25,972 main - before Scenarios
+16 Mar 2023 12:49:25,973 main - Launch driver
+16 Mar 2023 12:49:25,976 main - driver start !!
+16 Mar 2023 12:49:25,986 main - driver running !!
+16 Mar 2023 12:49:51,697 main - Login Sucessfully
+16 Mar 2023 12:49:51,697 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:50:21,638 main - Enter the Alert Sucessfully
+16 Mar 2023 12:50:29,635 main - before Scenarios
+16 Mar 2023 12:50:29,636 main - Launch driver
+16 Mar 2023 12:50:29,638 main - driver start !!
+16 Mar 2023 12:50:29,645 main - driver running !!
+16 Mar 2023 12:50:56,804 main - Login Sucessfully
+16 Mar 2023 12:50:56,804 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:51:44,776 main - Enter the Alert Sucessfully
+16 Mar 2023 12:55:07,305 main - before Scenarios
+16 Mar 2023 12:55:07,307 main - Launch driver
+16 Mar 2023 12:55:07,311 main - driver start !!
+16 Mar 2023 12:55:07,319 main - driver running !!
+16 Mar 2023 12:55:33,223 main - Login Sucessfully
+16 Mar 2023 12:55:33,223 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:56:08,568 main - before Scenarios
+16 Mar 2023 12:56:08,570 main - Launch driver
+16 Mar 2023 12:56:08,571 main - driver start !!
+16 Mar 2023 12:56:08,578 main - driver running !!
+16 Mar 2023 12:56:33,965 main - Login Sucessfully
+16 Mar 2023 12:56:33,965 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:57:26,200 main - before Scenarios
+16 Mar 2023 12:57:26,201 main - Launch driver
+16 Mar 2023 12:57:26,204 main - driver start !!
+16 Mar 2023 12:57:26,210 main - driver running !!
+16 Mar 2023 12:57:52,533 main - Login Sucessfully
+16 Mar 2023 12:57:52,534 main - Enter the Homepage Sucessfully
+16 Mar 2023 12:58:47,531 main - Enter the Alert Sucessfully
+16 Mar 2023 13:13:25,262 main - before Scenarios
+16 Mar 2023 13:13:25,264 main - Launch driver
+16 Mar 2023 13:13:25,266 main - driver start !!
+16 Mar 2023 13:13:25,272 main - driver running !!
+16 Mar 2023 13:13:54,206 main - Login Sucessfully
+16 Mar 2023 13:13:54,206 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:14:59,997 main - Enter the Alert Sucessfully
+16 Mar 2023 13:16:45,548 main - before Scenarios
+16 Mar 2023 13:16:45,549 main - Launch driver
+16 Mar 2023 13:16:45,551 main - driver start !!
+16 Mar 2023 13:16:45,557 main - driver running !!
+16 Mar 2023 13:17:22,468 main - Enter the Alert Sucessfully
+16 Mar 2023 13:17:31,210 main - before Scenarios
+16 Mar 2023 13:17:31,212 main - Launch driver
+16 Mar 2023 13:17:31,214 main - driver start !!
+16 Mar 2023 13:17:31,219 main - driver running !!
+16 Mar 2023 13:17:57,770 main - Login Sucessfully
+16 Mar 2023 13:17:57,770 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:19:28,158 main - Home Page completed Sucessfully
+16 Mar 2023 13:19:28,159 main - Enter the Alert Sucessfully
+16 Mar 2023 13:19:34,932 main - before Scenarios
+16 Mar 2023 13:19:34,934 main - Launch driver
+16 Mar 2023 13:19:34,937 main - driver start !!
+16 Mar 2023 13:19:34,944 main - driver running !!
+16 Mar 2023 13:20:02,771 main - Login Sucessfully
+16 Mar 2023 13:20:02,771 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:20:46,307 main - Enter the Alert Sucessfully
+16 Mar 2023 13:22:53,576 main - before Scenarios
+16 Mar 2023 13:22:53,577 main - Launch driver
+16 Mar 2023 13:22:53,581 main - driver start !!
+16 Mar 2023 13:22:53,587 main - driver running !!
+16 Mar 2023 13:23:20,070 main - Login Sucessfully
+16 Mar 2023 13:23:20,070 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:24:53,274 main - Home Page completed Sucessfully
+16 Mar 2023 13:24:53,277 main - Enter the Alert Sucessfully
+16 Mar 2023 13:26:13,956 main - exit the Alert Sucessfully
+16 Mar 2023 13:26:13,957 main - enter the Tradingroom Sucessfully
+16 Mar 2023 13:26:44,114 main - exit the Tradingroom Sucessfully
+16 Mar 2023 13:26:44,115 main - enter the Classes Sucessfully
+16 Mar 2023 13:26:49,331 main - before Scenarios
+16 Mar 2023 13:26:49,332 main - Launch driver
+16 Mar 2023 13:26:49,336 main - driver start !!
+16 Mar 2023 13:26:49,347 main - driver running !!
+16 Mar 2023 13:27:18,578 main - Login Sucessfully
+16 Mar 2023 13:27:18,578 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:28:22,295 main - Enter the Alert Sucessfully
+16 Mar 2023 13:42:26,947 main - before Scenarios
+16 Mar 2023 13:42:26,948 main - Launch driver
+16 Mar 2023 13:42:26,950 main - driver start !!
+16 Mar 2023 13:42:26,957 main - driver running !!
+16 Mar 2023 13:42:53,717 main - Login Sucessfully
+16 Mar 2023 13:42:53,717 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:44:27,703 main - Enter the Alert Sucessfully
+16 Mar 2023 13:49:14,759 main - before Scenarios
+16 Mar 2023 13:49:14,760 main - Launch driver
+16 Mar 2023 13:49:14,761 main - driver start !!
+16 Mar 2023 13:49:14,771 main - driver running !!
+16 Mar 2023 13:49:41,728 main - Login Sucessfully
+16 Mar 2023 13:49:41,728 main - Enter the Homepage Sucessfully
+16 Mar 2023 13:50:58,697 main - Enter the Alert Sucessfully
+16 Mar 2023 15:42:05,049 main - before Scenarios
+16 Mar 2023 15:42:05,050 main - Launch driver
+16 Mar 2023 15:42:05,051 main - driver start !!
+16 Mar 2023 15:42:05,059 main - driver running !!
+16 Mar 2023 15:42:34,759 main - Login Sucessfully
+16 Mar 2023 15:42:34,759 main - Enter the Homepage Sucessfully
+16 Mar 2023 15:43:58,604 main - Enter the Alert Sucessfully
+16 Mar 2023 15:45:30,391 main - exit the Alert Sucessfully
+16 Mar 2023 15:45:30,391 main - enter the Tradingroom Sucessfully
+16 Mar 2023 15:45:45,859 main - enter the Classes Sucessfully
+16 Mar 2023 15:46:12,872 main - Exit the Classes Sucessfully
+16 Mar 2023 15:46:12,872 main - enter the Menu Sucessfully
+16 Mar 2023 15:51:48,978 main - before Scenarios
+16 Mar 2023 15:51:48,979 main - Launch driver
+16 Mar 2023 15:51:48,981 main - driver start !!
+16 Mar 2023 15:51:48,989 main - driver running !!
+16 Mar 2023 15:52:16,636 main - Login Sucessfully
+16 Mar 2023 15:52:16,636 main - Enter the Homepage Sucessfully
+16 Mar 2023 15:53:33,672 main - Home Page completed Sucessfully
+16 Mar 2023 15:53:33,673 main - Enter the Alert Sucessfully
+16 Mar 2023 15:54:52,129 main - before Scenarios
+16 Mar 2023 15:54:52,131 main - Launch driver
+16 Mar 2023 15:54:52,132 main - driver start !!
+16 Mar 2023 15:54:52,147 main - driver running !!
+16 Mar 2023 15:55:18,073 main - Login Sucessfully
+16 Mar 2023 15:55:18,074 main - Enter the Homepage Sucessfully
+16 Mar 2023 15:56:28,279 main - before Scenarios
+16 Mar 2023 15:56:28,281 main - Launch driver
+16 Mar 2023 15:56:28,283 main - driver start !!
+16 Mar 2023 15:56:28,292 main - driver running !!
+16 Mar 2023 15:56:53,796 main - Login Sucessfully
+16 Mar 2023 15:56:53,797 main - Enter the Homepage Sucessfully
+16 Mar 2023 15:58:00,535 main - before Scenarios
+16 Mar 2023 15:58:00,538 main - Launch driver
+16 Mar 2023 15:58:00,540 main - driver start !!
+16 Mar 2023 15:58:00,552 main - driver running !!
+16 Mar 2023 15:58:26,806 main - Login Sucessfully
+16 Mar 2023 15:58:26,806 main - Enter the Homepage Sucessfully
+16 Mar 2023 15:59:58,863 main - Enter the Alert Sucessfully
+16 Mar 2023 16:00:13,893 main - enter the Classes Sucessfully
+16 Mar 2023 16:07:18,882 main - before Scenarios
+16 Mar 2023 16:07:18,885 main - Launch driver
+16 Mar 2023 16:07:18,887 main - driver start !!
+16 Mar 2023 16:07:18,897 main - driver running !!
+16 Mar 2023 16:07:46,177 main - Login Sucessfully
+16 Mar 2023 16:07:46,177 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:08:52,271 main - Enter the Alert Sucessfully
+16 Mar 2023 16:09:47,230 main - enter the Classes Sucessfully
+16 Mar 2023 16:10:28,097 main - before Scenarios
+16 Mar 2023 16:10:28,099 main - Launch driver
+16 Mar 2023 16:10:28,100 main - driver start !!
+16 Mar 2023 16:10:28,107 main - driver running !!
+16 Mar 2023 16:10:53,533 main - Login Sucessfully
+16 Mar 2023 16:10:53,533 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:12:25,917 main - Enter the Alert Sucessfully
+16 Mar 2023 16:12:56,623 main - before Scenarios
+16 Mar 2023 16:12:56,624 main - Launch driver
+16 Mar 2023 16:12:56,626 main - driver start !!
+16 Mar 2023 16:12:56,634 main - driver running !!
+16 Mar 2023 16:13:30,538 main - Enter the Alert Sucessfully
+16 Mar 2023 16:13:51,568 main - enter the Classes Sucessfully
+16 Mar 2023 16:17:57,197 main - before Scenarios
+16 Mar 2023 16:17:57,198 main - Launch driver
+16 Mar 2023 16:17:57,201 main - driver start !!
+16 Mar 2023 16:17:57,207 main - driver running !!
+16 Mar 2023 16:18:23,844 main - Login Sucessfully
+16 Mar 2023 16:18:23,844 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:19:37,374 main - Enter the Alert Sucessfully
+16 Mar 2023 16:19:58,814 main - enter the Classes Sucessfully
+16 Mar 2023 16:20:00,896 main - before Scenarios
+16 Mar 2023 16:20:00,898 main - Launch driver
+16 Mar 2023 16:20:00,900 main - driver start !!
+16 Mar 2023 16:20:00,910 main - driver running !!
+16 Mar 2023 16:20:26,230 main - Login Sucessfully
+16 Mar 2023 16:20:26,230 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:21:35,963 main - Enter the Alert Sucessfully
+16 Mar 2023 16:21:56,497 main - enter the Classes Sucessfully
+16 Mar 2023 16:22:06,868 main - before Scenarios
+16 Mar 2023 16:22:06,869 main - Launch driver
+16 Mar 2023 16:22:06,872 main - driver start !!
+16 Mar 2023 16:22:06,879 main - driver running !!
+16 Mar 2023 16:35:45,048 main - before Scenarios
+16 Mar 2023 16:35:45,050 main - Launch driver
+16 Mar 2023 16:35:45,052 main - driver start !!
+16 Mar 2023 16:35:45,062 main - driver running !!
+16 Mar 2023 16:36:10,183 main - Login Sucessfully
+16 Mar 2023 16:36:10,183 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:37:27,648 main - Enter the Alert Sucessfully
+16 Mar 2023 16:37:45,992 main - enter the Classes Sucessfully
+16 Mar 2023 16:38:06,915 main - before Scenarios
+16 Mar 2023 16:38:06,917 main - Launch driver
+16 Mar 2023 16:38:06,919 main - driver start !!
+16 Mar 2023 16:38:06,926 main - driver running !!
+16 Mar 2023 16:38:33,099 main - Login Sucessfully
+16 Mar 2023 16:38:33,099 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:39:31,969 main - before Scenarios
+16 Mar 2023 16:39:31,970 main - Launch driver
+16 Mar 2023 16:39:31,973 main - driver start !!
+16 Mar 2023 16:39:31,981 main - driver running !!
+16 Mar 2023 16:39:57,256 main - Login Sucessfully
+16 Mar 2023 16:39:57,256 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:41:10,354 main - Enter the Alert Sucessfully
+16 Mar 2023 16:41:52,498 main - enter the Classes Sucessfully
+16 Mar 2023 16:46:03,369 main - before Scenarios
+16 Mar 2023 16:46:03,370 main - Launch driver
+16 Mar 2023 16:46:03,372 main - driver start !!
+16 Mar 2023 16:46:03,379 main - driver running !!
+16 Mar 2023 16:46:28,548 main - Login Sucessfully
+16 Mar 2023 16:46:28,548 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:47:54,068 main - Enter the Alert Sucessfully
+16 Mar 2023 16:48:23,896 main - before Scenarios
+16 Mar 2023 16:48:23,897 main - Launch driver
+16 Mar 2023 16:48:23,899 main - driver start !!
+16 Mar 2023 16:48:23,906 main - driver running !!
+16 Mar 2023 16:48:48,891 main - Login Sucessfully
+16 Mar 2023 16:48:48,891 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:50:00,768 main - Enter the Alert Sucessfully
+16 Mar 2023 16:50:21,932 main - enter the Classes Sucessfully
+16 Mar 2023 16:57:37,270 main - before Scenarios
+16 Mar 2023 16:57:37,272 main - Launch driver
+16 Mar 2023 16:57:37,275 main - driver start !!
+16 Mar 2023 16:57:37,287 main - driver running !!
+16 Mar 2023 16:58:03,158 main - Login Sucessfully
+16 Mar 2023 16:58:03,158 main - Enter the Homepage Sucessfully
+16 Mar 2023 16:59:18,336 main - Home Page completed Sucessfully
+16 Mar 2023 16:59:18,337 main - Enter the Alert Sucessfully
+16 Mar 2023 17:00:52,555 main - exit the Alert Sucessfully
+16 Mar 2023 17:00:52,555 main - enter the Tradingroom Sucessfully
+16 Mar 2023 17:01:25,287 main - exit the Tradingroom Sucessfully
+16 Mar 2023 17:01:25,288 main - enter the Classes Sucessfully
+16 Mar 2023 17:01:52,341 main - Exit the Classes Sucessfully
+16 Mar 2023 17:01:52,341 main - enter the Menu Sucessfully
+16 Mar 2023 17:02:03,979 main - Exit the Menu Sucessfully
+16 Mar 2023 17:02:08,428 main - Logout Sucessfully
+16 Mar 2023 17:35:46,758 main - before Scenarios
+16 Mar 2023 17:35:46,759 main - Launch driver
+16 Mar 2023 17:35:46,761 main - driver start !!
+16 Mar 2023 17:35:46,768 main - driver running !!
+16 Mar 2023 17:36:13,049 main - Login Sucessfully
+16 Mar 2023 17:36:13,050 main - Enter the Homepage Sucessfully
+16 Mar 2023 17:37:18,964 main - Enter the Alert Sucessfully
+16 Mar 2023 17:37:39,870 main - enter the Classes Sucessfully
+16 Mar 2023 17:37:56,516 main - before Scenarios
+16 Mar 2023 17:37:56,518 main - Launch driver
+16 Mar 2023 17:37:56,520 main - driver start !!
+16 Mar 2023 17:37:56,531 main - driver running !!
+16 Mar 2023 17:38:24,390 main - Login Sucessfully
+16 Mar 2023 17:38:24,390 main - Enter the Homepage Sucessfully
+16 Mar 2023 17:39:42,645 main - Home Page completed Sucessfully
+16 Mar 2023 17:39:42,647 main - Enter the Alert Sucessfully
+16 Mar 2023 17:41:16,256 main - exit the Alert Sucessfully
+16 Mar 2023 17:41:16,256 main - enter the Tradingroom Sucessfully
+16 Mar 2023 17:41:52,412 main - exit the Tradingroom Sucessfully
+16 Mar 2023 17:41:52,413 main - enter the Classes Sucessfully
+16 Mar 2023 17:42:20,485 main - Exit the Classes Sucessfully
+16 Mar 2023 17:42:20,485 main - enter the Menu Sucessfully
+16 Mar 2023 17:42:30,768 main - Exit the Menu Sucessfully
+16 Mar 2023 17:42:33,645 main - Logout Sucessfully
+17 Mar 2023 13:07:29,922 main - before Scenarios
+17 Mar 2023 13:07:29,925 main - Launch driver
+17 Mar 2023 13:07:29,927 main - driver start !!
+17 Mar 2023 13:07:29,935 main - driver running !!
+17 Mar 2023 13:07:55,235 main - Login Sucessfully
+17 Mar 2023 13:07:55,235 main - Enter the Homepage Sucessfully
+17 Mar 2023 13:09:09,086 main - Enter the Alert Sucessfully
+17 Mar 2023 13:10:00,540 main - enter the Classes Sucessfully
+17 Mar 2023 13:10:26,257 main - Exit the Classes Sucessfully
+17 Mar 2023 13:10:26,258 main - enter the Menu Sucessfully
+17 Mar 2023 13:11:31,920 main - before Scenarios
+17 Mar 2023 13:11:31,921 main - Launch driver
+17 Mar 2023 13:11:31,924 main - driver start !!
+17 Mar 2023 13:11:31,930 main - driver running !!
+17 Mar 2023 13:11:59,553 main - before Scenarios
+17 Mar 2023 13:11:59,554 main - Launch driver
+17 Mar 2023 13:11:59,556 main - driver start !!
+17 Mar 2023 13:11:59,563 main - driver running !!
+17 Mar 2023 13:13:11,465 main - before Scenarios
+17 Mar 2023 13:13:11,466 main - Launch driver
+17 Mar 2023 13:13:11,468 main - driver start !!
+17 Mar 2023 13:13:11,478 main - driver running !!
+17 Mar 2023 13:15:01,030 main - before Scenarios
+17 Mar 2023 13:15:01,031 main - Launch driver
+17 Mar 2023 13:15:01,032 main - driver start !!
+17 Mar 2023 13:15:01,040 main - driver running !!
+17 Mar 2023 13:17:28,559 main - before Scenarios
+17 Mar 2023 13:17:28,560 main - Launch driver
+17 Mar 2023 13:17:28,561 main - driver start !!
+17 Mar 2023 13:17:28,568 main - driver running !!
+17 Mar 2023 13:18:34,554 main - before Scenarios
+17 Mar 2023 13:18:34,557 main - Launch driver
+17 Mar 2023 13:18:34,563 main - driver start !!
+17 Mar 2023 13:18:34,572 main - driver running !!
+17 Mar 2023 13:20:14,326 main - before Scenarios
+17 Mar 2023 13:20:14,327 main - Launch driver
+17 Mar 2023 13:20:14,330 main - driver start !!
+17 Mar 2023 13:20:14,336 main - driver running !!
+17 Mar 2023 13:26:21,943 main - before Scenarios
+17 Mar 2023 13:26:21,944 main - Launch driver
+17 Mar 2023 13:26:21,946 main - driver start !!
+17 Mar 2023 13:26:21,952 main - driver running !!
+17 Mar 2023 13:26:46,347 main - Login Sucessfully
+17 Mar 2023 13:26:46,347 main - Enter the Homepage Sucessfully
+17 Mar 2023 13:27:23,521 main - Enter the Alert Sucessfully
+17 Mar 2023 13:28:43,896 main - exit the Alert Sucessfully
+17 Mar 2023 13:28:43,896 main - enter the Tradingroom Sucessfully
+17 Mar 2023 13:29:05,120 main - enter the Classes Sucessfully
+17 Mar 2023 13:29:18,957 main - before Scenarios
+17 Mar 2023 13:29:18,958 main - Launch driver
+17 Mar 2023 13:29:18,960 main - driver start !!
+17 Mar 2023 13:29:18,967 main - driver running !!
+17 Mar 2023 13:29:44,106 main - Login Sucessfully
+17 Mar 2023 13:29:44,106 main - Enter the Homepage Sucessfully
+17 Mar 2023 13:30:39,773 main - Enter the Alert Sucessfully
+17 Mar 2023 13:31:28,932 main - enter the Classes Sucessfully
+17 Mar 2023 13:31:56,177 main - Exit the Classes Sucessfully
+17 Mar 2023 13:31:56,177 main - enter the Menu Sucessfully
+17 Mar 2023 13:36:45,600 main - before Scenarios
+17 Mar 2023 13:36:45,601 main - Launch driver
+17 Mar 2023 13:36:45,603 main - driver start !!
+17 Mar 2023 13:36:45,607 main - driver running !!
+17 Mar 2023 13:37:09,910 main - Login Sucessfully
+17 Mar 2023 13:37:09,911 main - Enter the Homepage Sucessfully
+17 Mar 2023 13:38:08,919 main - Enter the Alert Sucessfully
+17 Mar 2023 13:38:29,818 main - enter the Classes Sucessfully
+17 Mar 2023 13:38:40,218 main - before Scenarios
+17 Mar 2023 13:38:40,221 main - Launch driver
+17 Mar 2023 13:38:40,222 main - driver start !!
+17 Mar 2023 13:38:40,229 main - driver running !!
+17 Mar 2023 13:39:58,909 main - before Scenarios
+17 Mar 2023 13:39:58,911 main - Launch driver
+17 Mar 2023 13:39:58,912 main - driver start !!
+17 Mar 2023 13:39:58,919 main - driver running !!
+17 Mar 2023 13:40:26,320 main - Login Sucessfully
+17 Mar 2023 13:40:26,320 main - Enter the Homepage Sucessfully
+17 Mar 2023 13:41:42,053 main - Home Page completed Sucessfully
+17 Mar 2023 13:41:42,056 main - Enter the Alert Sucessfully
+17 Mar 2023 13:43:04,000 main - exit the Alert Sucessfully
+17 Mar 2023 13:43:04,000 main - enter the Tradingroom Sucessfully
+17 Mar 2023 13:43:26,427 main - enter the Classes Sucessfully
+17 Mar 2023 14:13:02,054 main - before Scenarios
+17 Mar 2023 14:13:02,056 main - Launch driver
+17 Mar 2023 14:13:02,058 main - driver start !!
+17 Mar 2023 14:13:02,065 main - driver running !!
+17 Mar 2023 14:13:34,186 main - Enter the Alert Sucessfully
+17 Mar 2023 15:34:15,773 main - before Scenarios
+17 Mar 2023 15:34:15,778 main - Launch driver
+17 Mar 2023 15:34:15,781 main - driver start !!
+17 Mar 2023 15:34:15,793 main - driver running !!
+17 Mar 2023 15:34:55,576 main - Login Sucessfully
+17 Mar 2023 15:34:55,576 main - Enter the Homepage Sucessfully
+17 Mar 2023 15:36:11,434 main - Home Page completed Sucessfully
+17 Mar 2023 15:36:11,435 main - Enter the Alert Sucessfully
+17 Mar 2023 16:52:01,133 main - before Scenarios
+17 Mar 2023 16:52:01,135 main - Launch driver
+17 Mar 2023 16:52:01,140 main - driver start !!
+17 Mar 2023 16:52:01,154 main - driver running !!
+17 Mar 2023 16:52:24,708 main - Login Sucessfully
+17 Mar 2023 16:52:24,709 main - Enter the Homepage Sucessfully
+17 Mar 2023 16:53:40,553 main - Home Page completed Sucessfully
+17 Mar 2023 16:53:40,554 main - Enter the Alert Sucessfully
+17 Mar 2023 16:54:59,564 main - exit the Alert Sucessfully
+17 Mar 2023 16:54:59,564 main - enter the Tradingroom Sucessfully
+17 Mar 2023 16:55:23,890 main - exit the Tradingroom Sucessfully
+17 Mar 2023 16:55:23,890 main - enter the Classes Sucessfully
+17 Mar 2023 16:55:50,245 main - Exit the Classes Sucessfully
+17 Mar 2023 16:55:50,245 main - enter the Menu Sucessfully
+20 Mar 2023 11:17:59,691 main - before Scenarios
+20 Mar 2023 11:17:59,693 main - Launch driver
+20 Mar 2023 11:17:59,694 main - driver start !!
+20 Mar 2023 11:17:59,701 main - driver running !!
+20 Mar 2023 11:18:45,676 main - Login Sucessfully
+20 Mar 2023 11:18:45,676 main - Enter the Homepage Sucessfully
+20 Mar 2023 11:20:04,385 main - Home Page completed Sucessfully
+20 Mar 2023 11:20:04,386 main - Enter the Alert Sucessfully
+20 Mar 2023 11:21:05,903 main - enter the Classes Sucessfully
+20 Mar 2023 11:21:30,389 main - before Scenarios
+20 Mar 2023 11:21:30,391 main - Launch driver
+20 Mar 2023 11:21:30,392 main - driver start !!
+20 Mar 2023 11:21:30,399 main - driver running !!
+20 Mar 2023 11:21:57,076 main - Login Sucessfully
+20 Mar 2023 11:21:57,077 main - Enter the Homepage Sucessfully
+20 Mar 2023 11:23:09,871 main - Enter the Alert Sucessfully
+20 Mar 2023 11:23:40,323 main - enter the Classes Sucessfully
+20 Mar 2023 11:26:20,418 main - before Scenarios
+20 Mar 2023 11:26:20,418 main - Launch driver
+20 Mar 2023 11:26:20,421 main - driver start !!
+20 Mar 2023 11:26:20,428 main - driver running !!
+20 Mar 2023 11:26:45,714 main - Login Sucessfully
+20 Mar 2023 11:26:45,715 main - Enter the Homepage Sucessfully
+20 Mar 2023 11:28:06,274 main - Home Page completed Sucessfully
+20 Mar 2023 11:28:06,276 main - Enter the Alert Sucessfully
+20 Mar 2023 11:28:30,035 main - enter the Classes Sucessfully
+20 Mar 2023 11:28:56,702 main - before Scenarios
+20 Mar 2023 11:28:56,705 main - Launch driver
+20 Mar 2023 11:28:56,708 main - driver start !!
+20 Mar 2023 11:28:56,714 main - driver running !!
+20 Mar 2023 11:29:23,535 main - Login Sucessfully
+20 Mar 2023 11:29:23,535 main - Enter the Homepage Sucessfully
+20 Mar 2023 11:30:43,915 main - Enter the Alert Sucessfully
+20 Mar 2023 11:31:00,255 main - enter the Classes Sucessfully
+20 Mar 2023 12:37:43,316 main - before Scenarios
+20 Mar 2023 12:37:43,318 main - Launch driver
+20 Mar 2023 12:37:43,320 main - driver start !!
+20 Mar 2023 12:37:43,328 main - driver running !!
+20 Mar 2023 12:50:18,632 main - before Scenarios
+20 Mar 2023 12:50:18,634 main - Launch driver
+20 Mar 2023 12:50:18,635 main - driver start !!
+20 Mar 2023 12:50:18,645 main - driver running !!
+20 Mar 2023 12:50:41,478 main -  Error in LogIn 
+20 Mar 2023 13:18:52,107 main - before Scenarios
+20 Mar 2023 13:18:52,108 main - Launch driver
+20 Mar 2023 13:18:52,111 main - driver start !!
+20 Mar 2023 13:18:52,130 main - driver running !!
+20 Mar 2023 13:19:19,798 main - Login Sucessfully
+20 Mar 2023 13:19:19,798 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:20:42,539 main - Home Page completed Sucessfully
+20 Mar 2023 13:20:42,540 main - Enter the Alert Sucessfully
+20 Mar 2023 13:21:42,278 main - Error in AlertTab 
+20 Mar 2023 13:21:42,818 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:21:44,983 main - Error in Tradingroom 
+20 Mar 2023 13:21:48,091 main - enter the Classes Sucessfully
+20 Mar 2023 13:21:50,270 main - Error in ClassTab 
+20 Mar 2023 13:21:50,838 main - enter the Menu Sucessfully
+20 Mar 2023 13:21:52,989 main - Error in Alert or Menu 
+20 Mar 2023 13:21:55,652 main - Error in Logout 
+20 Mar 2023 13:27:25,096 main - before Scenarios
+20 Mar 2023 13:27:25,097 main - Launch driver
+20 Mar 2023 13:27:25,099 main - driver start !!
+20 Mar 2023 13:27:25,107 main - driver running !!
+20 Mar 2023 13:27:52,256 main - Login Sucessfully
+20 Mar 2023 13:27:52,256 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:29:13,650 main - Home Page completed Sucessfully
+20 Mar 2023 13:29:13,652 main - Enter the Alert Sucessfully
+20 Mar 2023 13:29:54,082 main - Error in AlertTab 
+20 Mar 2023 13:29:54,683 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:30:07,161 main - Error in Tradingroom 
+20 Mar 2023 13:30:07,653 main - enter the Classes Sucessfully
+20 Mar 2023 13:30:09,874 main - Error in ClassTab 
+20 Mar 2023 13:30:10,348 main - enter the Menu Sucessfully
+20 Mar 2023 13:30:12,937 main - Error in Alert or Menu 
+20 Mar 2023 13:30:16,452 main - Error in Logout 
+20 Mar 2023 13:30:48,085 main - before Scenarios
+20 Mar 2023 13:30:48,086 main - Launch driver
+20 Mar 2023 13:30:48,089 main - driver start !!
+20 Mar 2023 13:30:48,097 main - driver running !!
+20 Mar 2023 13:31:15,562 main - Login Sucessfully
+20 Mar 2023 13:31:15,562 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:31:19,145 main - Error in Home 
+20 Mar 2023 13:31:21,935 main - Enter the Alert Sucessfully
+20 Mar 2023 13:31:37,850 main - before Scenarios
+20 Mar 2023 13:31:37,851 main - Launch driver
+20 Mar 2023 13:31:37,853 main - driver start !!
+20 Mar 2023 13:31:37,861 main - driver running !!
+20 Mar 2023 13:31:39,695 main - Error in AlertTab 
+20 Mar 2023 13:31:40,759 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:31:42,868 main - Error in Tradingroom 
+20 Mar 2023 13:31:43,949 main - enter the Classes Sucessfully
+20 Mar 2023 13:31:46,035 main - Error in ClassTab 
+20 Mar 2023 13:32:05,618 main - Login Sucessfully
+20 Mar 2023 13:32:05,618 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:33:27,048 main - Home Page completed Sucessfully
+20 Mar 2023 13:33:27,052 main - Enter the Alert Sucessfully
+20 Mar 2023 13:34:27,333 main - Error in AlertTab 
+20 Mar 2023 13:34:27,856 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:34:37,572 main - Error in Tradingroom 
+20 Mar 2023 13:34:38,261 main - enter the Classes Sucessfully
+20 Mar 2023 13:34:40,662 main - Error in ClassTab 
+20 Mar 2023 13:34:41,304 main - enter the Menu Sucessfully
+20 Mar 2023 13:34:43,983 main - Error in Alert or Menu 
+20 Mar 2023 13:34:46,858 main - Error in Logout 
+20 Mar 2023 13:34:54,666 main - before Scenarios
+20 Mar 2023 13:34:54,667 main - Launch driver
+20 Mar 2023 13:34:54,671 main - driver start !!
+20 Mar 2023 13:34:54,683 main - driver running !!
+20 Mar 2023 13:35:21,966 main - Login Sucessfully
+20 Mar 2023 13:35:21,966 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:35:49,780 main - Error in Home 
+20 Mar 2023 13:35:52,560 main - Enter the Alert Sucessfully
+20 Mar 2023 13:35:58,451 main - Error in AlertTab 
+20 Mar 2023 13:35:58,940 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:36:06,293 main - Error in Tradingroom 
+20 Mar 2023 13:36:10,527 main - enter the Classes Sucessfully
+20 Mar 2023 13:36:12,700 main - Error in ClassTab 
+20 Mar 2023 13:36:15,180 main - enter the Menu Sucessfully
+20 Mar 2023 13:36:17,847 main - Error in Alert or Menu 
+20 Mar 2023 13:36:22,874 main - Error in Logout 
+20 Mar 2023 13:36:38,541 main - before Scenarios
+20 Mar 2023 13:36:38,544 main - Launch driver
+20 Mar 2023 13:36:38,546 main - driver start !!
+20 Mar 2023 13:36:38,556 main - driver running !!
+20 Mar 2023 13:37:06,558 main - Login Sucessfully
+20 Mar 2023 13:37:06,558 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:37:31,533 main - Error in Home 
+20 Mar 2023 13:52:05,785 main - before Scenarios
+20 Mar 2023 13:52:05,787 main - Launch driver
+20 Mar 2023 13:52:05,790 main - driver start !!
+20 Mar 2023 13:52:05,800 main - driver running !!
+20 Mar 2023 13:52:33,404 main - Login Sucessfully
+20 Mar 2023 13:52:33,405 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:53:55,235 main - Home Page completed Sucessfully
+20 Mar 2023 13:53:55,238 main - Enter the Alert Sucessfully
+20 Mar 2023 13:55:11,576 main - Error in AlertTab 
+20 Mar 2023 13:55:12,186 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:55:14,500 main - Error in Tradingroom 
+20 Mar 2023 13:55:15,039 main - enter the Classes Sucessfully
+20 Mar 2023 13:55:17,185 main - Error in ClassTab 
+20 Mar 2023 13:55:17,688 main - enter the Menu Sucessfully
+20 Mar 2023 13:55:22,405 main - Error in Alert or Menu 
+20 Mar 2023 13:55:25,101 main - Error in Logout 
+20 Mar 2023 13:55:38,258 main - before Scenarios
+20 Mar 2023 13:55:38,262 main - Launch driver
+20 Mar 2023 13:55:38,265 main - driver start !!
+20 Mar 2023 13:55:38,284 main - driver running !!
+20 Mar 2023 13:56:05,567 main - Login Sucessfully
+20 Mar 2023 13:56:05,568 main - Enter the Homepage Sucessfully
+20 Mar 2023 13:56:29,177 main - Error in Home 
+20 Mar 2023 13:56:32,332 main - Enter the Alert Sucessfully
+20 Mar 2023 13:56:38,850 main - Error in AlertTab 
+20 Mar 2023 13:56:41,736 main - enter the Tradingroom Sucessfully
+20 Mar 2023 13:56:43,883 main - Error in Tradingroom 
+20 Mar 2023 13:56:46,665 main - enter the Classes Sucessfully
+20 Mar 2023 13:56:48,871 main - Error in ClassTab 
+20 Mar 2023 13:56:51,550 main - enter the Menu Sucessfully
+20 Mar 2023 13:56:53,728 main - Error in Alert or Menu 
+20 Mar 2023 13:56:58,915 main - Error in Logout 
+20 Mar 2023 15:45:48,517 main - before Scenarios
+20 Mar 2023 15:45:48,519 main - Launch driver
+20 Mar 2023 15:45:48,521 main - driver start !!
+20 Mar 2023 15:45:48,529 main - driver running !!
+20 Mar 2023 15:46:17,023 main - Login Sucessfully
+20 Mar 2023 15:46:17,023 main - Enter the Homepage Sucessfully
+20 Mar 2023 15:47:40,936 main - Home Page completed Sucessfully
+20 Mar 2023 15:47:40,939 main - Enter the Alert Sucessfully
+20 Mar 2023 15:49:34,008 main - exit the Alert Sucessfully
+20 Mar 2023 15:49:34,010 main - enter the Tradingroom Sucessfully
+20 Mar 2023 15:49:46,421 main - Error in Tradingroom 
+20 Mar 2023 15:49:47,110 main - enter the Classes Sucessfully
+20 Mar 2023 15:49:50,028 main - Error in ClassTab 
+20 Mar 2023 15:49:50,674 main - enter the Menu Sucessfully
+20 Mar 2023 15:49:52,969 main - Error in Alert or Menu 
+20 Mar 2023 15:49:56,300 main - Error in Logout 
+20 Mar 2023 16:00:08,494 main - before Scenarios
+20 Mar 2023 16:00:08,495 main - Launch driver
+20 Mar 2023 16:00:08,497 main - driver start !!
+20 Mar 2023 16:00:08,503 main - driver running !!
+20 Mar 2023 16:00:36,078 main - Login Sucessfully
+20 Mar 2023 16:00:36,078 main - Enter the Homepage Sucessfully
+20 Mar 2023 16:01:55,351 main - Home Page completed Sucessfully
+20 Mar 2023 16:01:55,352 main - Enter the Alert Sucessfully
+20 Mar 2023 16:03:53,104 main - exit the Alert Sucessfully
+20 Mar 2023 16:03:53,105 main - enter the Tradingroom Sucessfully
+20 Mar 2023 16:04:05,806 main - Error in Tradingroom 
+20 Mar 2023 16:04:06,434 main - enter the Classes Sucessfully
+20 Mar 2023 16:04:09,071 main - Error in ClassTab 
+20 Mar 2023 16:04:09,727 main - enter the Menu Sucessfully
+20 Mar 2023 16:04:11,979 main - Error in Alert or Menu 
+20 Mar 2023 16:04:15,311 main - Error in Logout 
+20 Mar 2023 16:08:06,860 main - before Scenarios
+20 Mar 2023 16:08:06,861 main - Launch driver
+20 Mar 2023 16:08:06,862 main - driver start !!
+20 Mar 2023 16:08:06,872 main - driver running !!
+20 Mar 2023 16:08:33,075 main - Login Sucessfully
+20 Mar 2023 16:08:33,075 main - Enter the Homepage Sucessfully
+20 Mar 2023 16:09:53,940 main - Home Page completed Sucessfully
+20 Mar 2023 16:09:53,943 main - Enter the Alert Sucessfully
+20 Mar 2023 16:11:47,106 main - exit the Alert Sucessfully
+20 Mar 2023 16:11:47,109 main - enter the Tradingroom Sucessfully
+20 Mar 2023 16:12:17,713 main - Error in Tradingroom 
+20 Mar 2023 16:12:20,069 main - enter the Classes Sucessfully
+20 Mar 2023 16:12:22,426 main - Error in ClassTab 
+20 Mar 2023 16:12:22,986 main - enter the Menu Sucessfully
+20 Mar 2023 16:12:25,707 main - Error in Alert or Menu 
+20 Mar 2023 16:12:29,516 main - Error in Logout 
+20 Mar 2023 16:20:30,323 main - before Scenarios
+20 Mar 2023 16:20:30,324 main - Launch driver
+20 Mar 2023 16:20:30,325 main - driver start !!
+20 Mar 2023 16:20:30,332 main - driver running !!
+20 Mar 2023 16:20:57,898 main - Login Sucessfully
+20 Mar 2023 16:20:57,899 main - Enter the Homepage Sucessfully
+20 Mar 2023 16:22:22,760 main - Home Page completed Sucessfully
+20 Mar 2023 16:22:22,761 main - Enter the Alert Sucessfully
+20 Mar 2023 16:24:09,109 main - exit the Alert Sucessfully
+20 Mar 2023 16:24:09,111 main - enter the Tradingroom Sucessfully
+20 Mar 2023 16:24:45,446 main - Error in Tradingroom 
+20 Mar 2023 16:24:45,918 main - enter the Classes Sucessfully
+20 Mar 2023 16:24:48,419 main - Error in ClassTab 
+20 Mar 2023 16:24:49,084 main - enter the Menu Sucessfully
+20 Mar 2023 16:24:51,745 main - Error in Alert or Menu 
+20 Mar 2023 16:24:54,566 main - Error in Logout 
+20 Mar 2023 16:25:23,760 main - before Scenarios
+20 Mar 2023 16:25:23,761 main - Launch driver
+20 Mar 2023 16:25:23,764 main - driver start !!
+20 Mar 2023 16:25:23,771 main - driver running !!
+20 Mar 2023 16:25:49,826 main - Login Sucessfully
+20 Mar 2023 16:25:49,826 main - Enter the Homepage Sucessfully
+20 Mar 2023 16:25:57,029 main - Error in Home 
+20 Mar 2023 16:25:59,976 main - Enter the Alert Sucessfully
+20 Mar 2023 16:26:08,894 main - Error in AlertTab 
+20 Mar 2023 16:26:09,386 main - enter the Tradingroom Sucessfully
+20 Mar 2023 16:26:53,723 main - Error in Tradingroom 
+20 Mar 2023 16:26:54,335 main - enter the Classes Sucessfully
+20 Mar 2023 16:26:54,341 main - before Scenarios
+20 Mar 2023 16:26:54,342 main - Launch driver
+20 Mar 2023 16:26:54,344 main - driver start !!
+20 Mar 2023 16:26:54,352 main - driver running !!
+20 Mar 2023 16:26:56,953 main - Error in ClassTab 
+20 Mar 2023 16:26:59,479 main - enter the Menu Sucessfully
+20 Mar 2023 16:27:01,575 main - Error in Alert or Menu 
+20 Mar 2023 16:27:20,698 main - Login Sucessfully
+20 Mar 2023 16:27:20,698 main - Enter the Homepage Sucessfully
+20 Mar 2023 16:28:41,551 main - Home Page completed Sucessfully
+20 Mar 2023 16:28:41,553 main - Enter the Alert Sucessfully
+20 Mar 2023 16:30:36,700 main - exit the Alert Sucessfully
+20 Mar 2023 16:30:36,701 main - enter the Tradingroom Sucessfully
+20 Mar 2023 16:31:25,273 main - Error in Tradingroom 
+20 Mar 2023 16:31:25,782 main - enter the Classes Sucessfully
+20 Mar 2023 16:31:28,062 main - Error in ClassTab 
+20 Mar 2023 16:31:28,503 main - enter the Menu Sucessfully
+20 Mar 2023 16:31:30,719 main - Error in Alert or Menu 
+20 Mar 2023 16:31:34,260 main - Error in Logout 
+20 Mar 2023 17:55:06,260 main - before Scenarios
+20 Mar 2023 17:55:06,263 main - Launch driver
+20 Mar 2023 17:55:06,265 main - driver start !!
+20 Mar 2023 17:55:06,277 main - driver running !!
+20 Mar 2023 17:55:09,269 main -  Error in LogIn 
+20 Mar 2023 17:55:49,411 main - before Scenarios
+20 Mar 2023 17:55:49,413 main - Launch driver
+20 Mar 2023 17:55:49,415 main - driver start !!
+20 Mar 2023 17:55:49,422 main - driver running !!
+20 Mar 2023 17:56:16,006 main - Login Sucessfully
+20 Mar 2023 17:56:16,007 main - Enter the Homepage Sucessfully
+20 Mar 2023 17:57:34,871 main - Home Page completed Sucessfully
+20 Mar 2023 17:57:34,873 main - Enter the Alert Sucessfully
+20 Mar 2023 17:58:21,568 main - Error in AlertTab 
+20 Mar 2023 17:58:22,120 main - enter the Tradingroom Sucessfully
+20 Mar 2023 17:59:09,859 main - Error in Tradingroom 
+20 Mar 2023 17:59:10,469 main - enter the Classes Sucessfully
+20 Mar 2023 17:59:13,099 main - Error in ClassTab 
+20 Mar 2023 17:59:13,776 main - enter the Menu Sucessfully
+20 Mar 2023 17:59:17,725 main - Error in Alert or Menu 
+20 Mar 2023 17:59:20,879 main - Error in Logout 
+20 Mar 2023 18:04:52,140 main - before Scenarios
+20 Mar 2023 18:04:52,142 main - Launch driver
+20 Mar 2023 18:04:52,144 main - driver start !!
+20 Mar 2023 18:04:52,150 main - driver running !!
+20 Mar 2023 18:05:17,484 main - Login Sucessfully
+20 Mar 2023 18:05:17,484 main - Enter the Homepage Sucessfully
+20 Mar 2023 18:06:35,997 main - Home Page completed Sucessfully
+20 Mar 2023 18:06:35,998 main - Enter the Alert Sucessfully
+20 Mar 2023 18:07:23,612 main - Error in AlertTab 
+20 Mar 2023 18:07:24,263 main - enter the Tradingroom Sucessfully
+20 Mar 2023 18:08:09,832 main - Error in Tradingroom 
+20 Mar 2023 18:08:10,303 main - enter the Classes Sucessfully
+20 Mar 2023 18:08:12,447 main - Error in ClassTab 
+20 Mar 2023 18:08:13,138 main - enter the Menu Sucessfully
+20 Mar 2023 18:08:15,302 main - Error in Alert or Menu 
+20 Mar 2023 18:08:18,890 main - Error in Logout 
+20 Mar 2023 18:11:30,976 main - before Scenarios
+20 Mar 2023 18:11:30,978 main - Launch driver
+20 Mar 2023 18:11:30,981 main - driver start !!
+20 Mar 2023 18:11:30,991 main - driver running !!
+20 Mar 2023 18:11:56,025 main - Login Sucessfully
+20 Mar 2023 18:11:56,025 main - Enter the Homepage Sucessfully
+20 Mar 2023 18:13:18,443 main - Home Page completed Sucessfully
+20 Mar 2023 18:13:18,444 main - Enter the Alert Sucessfully
+20 Mar 2023 18:14:07,215 main - Error in AlertTab 
+20 Mar 2023 18:14:07,815 main - enter the Tradingroom Sucessfully
+20 Mar 2023 18:15:04,070 main - Error in Tradingroom 
+20 Mar 2023 18:15:04,556 main - enter the Classes Sucessfully
+20 Mar 2023 18:15:06,776 main - Error in ClassTab 
+20 Mar 2023 18:15:07,261 main - enter the Menu Sucessfully
+20 Mar 2023 18:15:09,462 main - Error in Alert or Menu 
+20 Mar 2023 18:15:12,273 main - Error in Logout 
+20 Mar 2023 18:37:55,735 main - before Scenarios
+20 Mar 2023 18:37:55,735 main - Launch driver
+20 Mar 2023 18:37:55,737 main - driver start !!
+20 Mar 2023 18:37:55,743 main - driver running !!
+20 Mar 2023 18:37:57,890 main -  Error in LogIn 
+20 Mar 2023 18:38:19,301 main - before Scenarios
+20 Mar 2023 18:38:19,303 main - Launch driver
+20 Mar 2023 18:38:19,305 main - driver start !!
+20 Mar 2023 18:38:19,312 main - driver running !!
+20 Mar 2023 18:38:48,248 main -  Error in LogIn 
+20 Mar 2023 19:21:34,085 main - before Scenarios
+20 Mar 2023 19:21:34,086 main - Launch driver
+20 Mar 2023 19:21:34,088 main - driver start !!
+20 Mar 2023 19:21:34,094 main - driver running !!
+20 Mar 2023 19:22:05,865 main -  Error in LogIn 
+20 Mar 2023 19:22:11,418 main - Error in Home 
+20 Mar 2023 19:22:12,065 main - Enter the Alert Sucessfully
+20 Mar 2023 19:22:18,969 main - before Scenarios
+20 Mar 2023 19:22:18,970 main - Launch driver
+20 Mar 2023 19:22:18,972 main - driver start !!
+20 Mar 2023 19:22:18,980 main - driver running !!
+20 Mar 2023 19:22:20,437 main - Error in AlertTab 
+20 Mar 2023 19:22:22,955 main - enter the Tradingroom Sucessfully
+20 Mar 2023 19:22:25,212 main - Error in Tradingroom 
+20 Mar 2023 19:22:32,702 main - before Scenarios
+20 Mar 2023 19:22:32,703 main - Launch driver
+20 Mar 2023 19:22:32,705 main - driver start !!
+20 Mar 2023 19:22:32,711 main - driver running !!
+20 Mar 2023 19:22:44,235 main -  Error in LogIn 
+20 Mar 2023 19:22:58,756 main - Login Sucessfully
+20 Mar 2023 19:22:58,756 main - Enter the Homepage Sucessfully
+20 Mar 2023 19:24:23,350 main - Home Page completed Sucessfully
+20 Mar 2023 19:24:23,351 main - Enter the Alert Sucessfully
+20 Mar 2023 19:25:13,049 main - Error in AlertTab 
+20 Mar 2023 19:25:13,661 main - enter the Tradingroom Sucessfully
+20 Mar 2023 19:26:07,242 main - Error in Tradingroom 
+20 Mar 2023 19:26:07,744 main - enter the Classes Sucessfully
+20 Mar 2023 19:26:10,461 main - Error in ClassTab 
+20 Mar 2023 19:26:10,859 main - enter the Menu Sucessfully
+20 Mar 2023 19:26:13,103 main - Error in Alert or Menu 
+20 Mar 2023 19:26:15,878 main - Error in Logout 
+21 Mar 2023 11:01:58,144 main - before Scenarios
+21 Mar 2023 11:01:58,147 main - Launch driver
+21 Mar 2023 11:01:58,149 main - driver start !!
+21 Mar 2023 11:01:58,158 main - driver running !!
+21 Mar 2023 11:02:36,006 main - Login Sucessfully
+21 Mar 2023 11:02:36,006 main - Enter the Homepage Sucessfully
+21 Mar 2023 11:03:54,607 main - Error in Home 
+21 Mar 2023 11:03:55,741 main - Enter the Alert Sucessfully
+21 Mar 2023 11:04:14,316 main - before Scenarios
+21 Mar 2023 11:04:14,317 main - Launch driver
+21 Mar 2023 11:04:14,319 main - driver start !!
+21 Mar 2023 11:04:14,327 main - driver running !!
+21 Mar 2023 11:04:21,765 main - Error in AlertTab 
+21 Mar 2023 11:04:42,771 main - Login Sucessfully
+21 Mar 2023 11:04:42,772 main - Enter the Homepage Sucessfully
+21 Mar 2023 11:05:55,012 main - Error in Home 
+21 Mar 2023 11:05:56,104 main - Enter the Alert Sucessfully
+21 Mar 2023 11:06:28,739 main - before Scenarios
+21 Mar 2023 11:06:28,740 main - Launch driver
+21 Mar 2023 11:06:28,743 main - driver start !!
+21 Mar 2023 11:06:28,752 main - driver running !!
+21 Mar 2023 11:06:44,215 main - Error in AlertTab 
+21 Mar 2023 11:06:55,725 main - Login Sucessfully
+21 Mar 2023 11:06:55,725 main - Enter the Homepage Sucessfully
+21 Mar 2023 11:08:11,682 main - Error in Home 
+21 Mar 2023 11:08:12,755 main - Enter the Alert Sucessfully
+21 Mar 2023 11:09:04,703 main - Error in AlertTab 
+21 Mar 2023 11:09:05,232 main - enter the Tradingroom Sucessfully
+21 Mar 2023 11:09:56,013 main - Error in Tradingroom 
+21 Mar 2023 11:09:56,491 main - enter the Classes Sucessfully
+21 Mar 2023 11:09:58,712 main - Error in ClassTab 
+21 Mar 2023 11:09:59,131 main - enter the Menu Sucessfully
+21 Mar 2023 11:10:01,655 main - Error in Alert or Menu 
+21 Mar 2023 11:10:04,866 main - Error in Logout 
+21 Mar 2023 15:09:38,318 main - before Scenarios
+21 Mar 2023 15:09:38,320 main - Launch driver
+21 Mar 2023 15:09:38,322 main - driver start !!
+21 Mar 2023 15:09:38,333 main - driver running !!
+21 Mar 2023 15:10:06,418 main - Login Sucessfully
+21 Mar 2023 15:10:06,418 main - Enter the Homepage Sucessfully
+21 Mar 2023 15:11:23,954 main - Home Page completed Sucessfully
+21 Mar 2023 15:11:23,955 main - Enter the Alert Sucessfully
+21 Mar 2023 15:12:13,836 main - Error in AlertTab 
+21 Mar 2023 15:12:14,627 main - enter the Tradingroom Sucessfully
+21 Mar 2023 15:13:04,440 main - Error in Tradingroom 
+21 Mar 2023 15:13:08,039 main - enter the Classes Sucessfully
+21 Mar 2023 15:13:10,232 main - Error in ClassTab 
+21 Mar 2023 15:13:10,641 main - enter the Menu Sucessfully
+21 Mar 2023 15:13:12,851 main - Error in Alert or Menu 
+21 Mar 2023 15:13:15,429 main - Error in Logout 
+21 Mar 2023 15:15:29,687 main - before Scenarios
+21 Mar 2023 15:15:29,689 main - Launch driver
+21 Mar 2023 15:15:29,691 main - driver start !!
+21 Mar 2023 15:15:29,702 main - driver running !!
+21 Mar 2023 15:15:56,483 main - Login Sucessfully
+21 Mar 2023 15:15:56,483 main - Enter the Homepage Sucessfully
+21 Mar 2023 15:17:16,156 main - Home Page completed Sucessfully
+21 Mar 2023 15:17:16,156 main - Enter the Alert Sucessfully
+21 Mar 2023 15:18:06,431 main - Error in AlertTab 
+21 Mar 2023 15:18:07,078 main - enter the Tradingroom Sucessfully
+21 Mar 2023 15:18:59,646 main - Error in Tradingroom 
+21 Mar 2023 15:19:00,586 main - enter the Classes Sucessfully
+21 Mar 2023 15:19:03,338 main - Error in ClassTab 
+21 Mar 2023 15:19:03,770 main - enter the Menu Sucessfully
+21 Mar 2023 15:19:06,125 main - Error in Alert or Menu 
+21 Mar 2023 15:19:08,660 main - Error in Logout 
+21 Mar 2023 15:26:44,798 main - before Scenarios
+21 Mar 2023 15:26:44,801 main - Launch driver
+21 Mar 2023 15:26:44,804 main - driver start !!
+21 Mar 2023 15:26:44,811 main - driver running !!
+21 Mar 2023 15:27:11,820 main - Login Sucessfully
+21 Mar 2023 15:27:11,820 main - Enter the Homepage Sucessfully
+21 Mar 2023 15:28:27,634 main - Home Page completed Sucessfully
+21 Mar 2023 15:28:27,636 main - Enter the Alert Sucessfully
+21 Mar 2023 15:29:14,047 main - Error in AlertTab 
+21 Mar 2023 15:29:14,731 main - enter the Tradingroom Sucessfully
+21 Mar 2023 15:30:27,057 main - exit the Tradingroom Sucessfully
+21 Mar 2023 15:30:27,067 main - enter the Classes Sucessfully
+21 Mar 2023 15:30:56,420 main - Error in ClassTab 
+21 Mar 2023 15:30:57,480 main - enter the Menu Sucessfully
+21 Mar 2023 15:30:59,765 main - Error in Alert or Menu 
+21 Mar 2023 15:31:02,958 main - Error in Logout 
+21 Mar 2023 15:52:18,549 main - before Scenarios
+21 Mar 2023 15:52:18,550 main - Launch driver
+21 Mar 2023 15:52:18,552 main - driver start !!
+21 Mar 2023 15:52:18,560 main - driver running !!
+21 Mar 2023 15:52:45,849 main - Login Sucessfully
+21 Mar 2023 15:52:45,849 main - Enter the Homepage Sucessfully
+21 Mar 2023 15:54:04,884 main - Home Page completed Sucessfully
+21 Mar 2023 15:54:04,887 main - Enter the Alert Sucessfully
+21 Mar 2023 15:54:52,489 main - Error in AlertTab 
+21 Mar 2023 15:54:53,146 main - enter the Tradingroom Sucessfully
+21 Mar 2023 15:54:59,667 main - Error in Tradingroom 
+21 Mar 2023 15:55:00,206 main - enter the Classes Sucessfully
+21 Mar 2023 15:55:30,818 main - Error in ClassTab 
+21 Mar 2023 15:55:31,869 main - enter the Menu Sucessfully
+21 Mar 2023 15:55:34,235 main - Error in Alert or Menu 
+21 Mar 2023 15:55:37,582 main - Error in Logout 
