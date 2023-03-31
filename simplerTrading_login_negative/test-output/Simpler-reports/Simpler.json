@@ -1,0 +1,471 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-03-30T13:36:39.022Z",
+        "before": [
+          {
+            "result": {
+              "duration": 18142824100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11679822000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"Rooomstest112_@simplertrading.com\" and  invalid \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Rooomstest112_@simplertrading.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 69
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1005500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3503875300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-03-30T13:37:12.421Z",
+        "before": [
+          {
+            "result": {
+              "duration": 17151314600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11637332000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"roomtest1@simplertrading.com\" and  invalid \"4IW6i8vINHxW_awdD@1upABBOqxG\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"roomtest1@simplertrading.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"4IW6i8vINHxW_awdD@1upABBOqxG\"",
+                  "offset": 64
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 998400,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3462394400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-03-30T13:37:44.681Z",
+        "before": [
+          {
+            "result": {
+              "duration": 18110263000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 22416495400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"roomtest1@simplertrading.com\" and  invalid \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"roomtest1@simplertrading.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 64
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3501823000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-03-30T13:38:28.715Z",
+        "before": [
+          {
+            "result": {
+              "duration": 16567092900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12091138900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"\" and  invalid \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"\"",
+                  "offset": 36
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3483261400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-03-30T13:39:00.864Z",
+        "before": [
+          {
+            "result": {
+              "duration": 16994646600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 23353733200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"roomtEST1@@simplertrading.com\" and  invalid \"4IW6rgri8vINHxWD@142upABBOqxG\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"roomtEST1@@simplertrading.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"4IW6rgri8vINHxWD@142upABBOqxG\"",
+                  "offset": 65
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3522107500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-03-30T13:39:44.739Z",
+        "before": [
+          {
+            "result": {
+              "duration": 16997168200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_definitions.Common_Step_Definitions.beforeScenario()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Login and Logout Functionality",
+        "description": "",
+        "id": "user-can-able-to-login-the-the-simpler-trading-application;login-and-logout-functionality;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10773636900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Users enter invalid \"roomtest1@simplertrading.com\" and  invalid \"4IW6i8vINHxWD@1upABBOqxG\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"roomtest1@simplertrading.com\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"4IW6i8vINHxWD@1upABBOqxG\"",
+                  "offset": 64
+                }
+              ],
+              "location": "Step_definitions.Step_definitions_Login.users_enters_invalid_and_invalid(java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2500723300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users can able to Logout the Applications",
+            "match": {
+              "location": "Step_definitions.Step_definitions_Login.users_can_able_to_logout_the_applications()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Step_definitions.Common_Step_Definitions.attachScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User can able to login the the Simpler trading Application",
+    "description": "",
+    "id": "user-can-able-to-login-the-the-simpler-trading-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/feature_files/Ionic.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,1419 @@
+30 Mar 2023 17:58:29,496 main - Launch driver
+30 Mar 2023 17:58:29,498 main - driver start !!
+30 Mar 2023 17:58:29,502 main - driver running !!
+30 Mar 2023 17:58:45,556 main -  Error in LogIn 
+30 Mar 2023 17:58:45,580 main - before Scenarios
+30 Mar 2023 17:58:45,580 main - Launch driver
+30 Mar 2023 17:58:45,580 main - driver start !!
+30 Mar 2023 17:58:45,581 main - driver running !!
+30 Mar 2023 17:59:12,339 main - before Scenarios
+30 Mar 2023 17:59:12,341 main - Launch driver
+30 Mar 2023 17:59:12,344 main - driver start !!
+30 Mar 2023 17:59:12,352 main - driver running !!
+30 Mar 2023 17:59:30,028 main -  Error in LogIn 
+30 Mar 2023 17:59:30,055 main - before Scenarios
+30 Mar 2023 17:59:30,055 main - Launch driver
+30 Mar 2023 17:59:30,057 main - driver start !!
+30 Mar 2023 17:59:30,057 main - driver running !!
+30 Mar 2023 17:59:44,731 main -  Error in LogIn 
+30 Mar 2023 17:59:44,741 main - before Scenarios
+30 Mar 2023 17:59:44,741 main - Launch driver
+30 Mar 2023 17:59:44,741 main - driver start !!
+30 Mar 2023 17:59:44,741 main - driver running !!
+30 Mar 2023 17:59:59,531 main -  Error in LogIn 
+30 Mar 2023 17:59:59,545 main - before Scenarios
+30 Mar 2023 17:59:59,545 main - Launch driver
+30 Mar 2023 17:59:59,545 main - driver start !!
+30 Mar 2023 17:59:59,545 main - driver running !!
+30 Mar 2023 18:00:11,222 main -  Error in LogIn 
+30 Mar 2023 18:00:11,230 main - before Scenarios
+30 Mar 2023 18:00:11,230 main - Launch driver
+30 Mar 2023 18:00:11,230 main - driver start !!
+30 Mar 2023 18:00:11,230 main - driver running !!
+30 Mar 2023 18:00:21,253 main -  Error in LogIn 
+30 Mar 2023 18:00:21,262 main - before Scenarios
+30 Mar 2023 18:00:21,262 main - Launch driver
+30 Mar 2023 18:00:21,262 main - driver start !!
+30 Mar 2023 18:00:21,262 main - driver running !!
+30 Mar 2023 18:00:33,163 main - before Scenarios
+30 Mar 2023 18:00:33,164 main - Launch driver
+30 Mar 2023 18:00:33,167 main - driver start !!
+30 Mar 2023 18:00:33,172 main - driver running !!
+30 Mar 2023 18:00:39,130 main -  Error in LogIn 
+30 Mar 2023 18:00:39,205 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,208 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,212 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:00:39,213 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:00:39,214 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:00:39,359 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,360 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,360 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:00:39,360 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:00:39,361 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:00:39,563 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,565 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,565 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:00:39,566 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:00:39,566 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:00:39,581 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,581 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,582 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:00:39,582 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:00:39,582 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:00:39,585 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,585 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,586 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:00:39,587 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:00:39,587 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:00:39,589 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,591 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,591 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:00:39,591 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:00:39,592 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:00:39,595 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:00:39,595 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,596 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,598 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:00:39,599 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:00:39,599 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:00:39,608 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,609 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,610 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:00:39,610 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:00:39,610 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:00:39,617 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,617 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,619 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:00:39,619 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:00:39,619 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:00:39,621 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,622 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,622 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:00:39,623 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:00:39,623 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:00:39,632 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,632 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,633 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:00:39,633 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:00:39,633 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:00:39,654 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,655 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,657 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:00:39,658 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:00:39,658 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:00:39,694 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,696 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,696 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:00:39,698 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:00:39,698 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:00:39,753 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,754 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,755 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:00:39,755 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:00:39,755 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:00:39,766 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,766 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,767 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:00:39,767 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:00:39,767 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:00:39,769 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,770 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,771 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:00:39,771 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:00:39,771 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:00:39,773 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,773 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,774 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:00:39,774 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:00:39,774 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:00:39,776 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,776 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,778 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:00:39,779 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:00:39,780 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:00:39,782 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,783 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,783 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:00:39,784 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:00:39,784 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:00:39,829 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,830 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,831 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:00:39,831 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:00:39,832 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:00:39,833 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:00:39,834 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:00:39,835 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:00:39,835 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:00:39,835 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:00:49,521 main -  Error in LogIn 
+30 Mar 2023 18:00:49,544 main - before Scenarios
+30 Mar 2023 18:00:49,544 main - Launch driver
+30 Mar 2023 18:00:49,544 main - driver start !!
+30 Mar 2023 18:00:49,544 main - driver running !!
+30 Mar 2023 18:01:03,391 main -  Error in LogIn 
+30 Mar 2023 18:01:03,402 main - before Scenarios
+30 Mar 2023 18:01:03,402 main - Launch driver
+30 Mar 2023 18:01:03,402 main - driver start !!
+30 Mar 2023 18:01:03,402 main - driver running !!
+30 Mar 2023 18:01:17,795 main -  Error in LogIn 
+30 Mar 2023 18:01:17,805 main - before Scenarios
+30 Mar 2023 18:01:17,805 main - Launch driver
+30 Mar 2023 18:01:17,805 main - driver start !!
+30 Mar 2023 18:01:17,805 main - driver running !!
+30 Mar 2023 18:01:32,411 main -  Error in LogIn 
+30 Mar 2023 18:01:32,418 main - before Scenarios
+30 Mar 2023 18:01:32,418 main - Launch driver
+30 Mar 2023 18:01:32,418 main - driver start !!
+30 Mar 2023 18:01:32,418 main - driver running !!
+30 Mar 2023 18:01:46,333 main -  Error in LogIn 
+30 Mar 2023 18:01:46,340 main - before Scenarios
+30 Mar 2023 18:01:46,340 main - Launch driver
+30 Mar 2023 18:01:46,340 main - driver start !!
+30 Mar 2023 18:01:46,340 main - driver running !!
+30 Mar 2023 18:02:00,863 main -  Error in LogIn 
+30 Mar 2023 18:02:00,899 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:00,899 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:02:00,900 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:02:00,900 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:02:00,901 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:02:00,938 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:00,938 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:02:00,938 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:02:00,938 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:02:00,938 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:02:01,006 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,006 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,006 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:02:01,007 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:02:01,007 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:02:01,011 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,011 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,011 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:02:01,011 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:02:01,011 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:02:01,013 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,013 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,013 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:02:01,013 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:02:01,013 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:02:01,014 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,015 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,015 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:02:01,015 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:02:01,015 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:02:01,018 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:02:01,018 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,018 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,018 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:02:01,019 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:02:01,019 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:02:01,026 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,027 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,027 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:02:01,028 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:02:01,028 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:02:01,031 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,032 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,032 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:02:01,032 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:02:01,032 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:02:01,033 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,033 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,033 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:02:01,033 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:02:01,033 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:02:01,037 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,038 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,038 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:02:01,038 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:02:01,038 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:02:01,046 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,046 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,047 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:02:01,047 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:02:01,047 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:02:01,055 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,055 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,055 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:02:01,056 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:02:01,056 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:02:01,080 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,080 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,080 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:02:01,080 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:02:01,080 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:02:01,085 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,085 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,085 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:02:01,085 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:02:01,085 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:02:01,086 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,086 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,086 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:02:01,086 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:02:01,087 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:02:01,087 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,088 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,088 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:02:01,088 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:02:01,088 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:02:01,089 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,089 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,090 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:02:01,090 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:02:01,090 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:02:01,090 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,091 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,091 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:02:01,091 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:02:01,091 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:02:01,109 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,110 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,110 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:02:01,110 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:02:01,110 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:02:01,111 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:02:01,111 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:02:01,111 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:02:01,111 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:02:01,111 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:32:51,117 main - before Scenarios
+30 Mar 2023 18:32:51,118 main - Launch driver
+30 Mar 2023 18:32:51,118 main - driver start !!
+30 Mar 2023 18:32:51,122 main - driver running !!
+30 Mar 2023 18:33:06,688 main -  Error in LogIn 
+30 Mar 2023 18:33:06,726 main - before Scenarios
+30 Mar 2023 18:33:06,726 main - Launch driver
+30 Mar 2023 18:33:06,726 main - driver start !!
+30 Mar 2023 18:33:06,726 main - driver running !!
+30 Mar 2023 18:33:21,139 main -  Error in LogIn 
+30 Mar 2023 18:33:21,148 main - before Scenarios
+30 Mar 2023 18:33:21,148 main - Launch driver
+30 Mar 2023 18:33:21,148 main - driver start !!
+30 Mar 2023 18:33:21,149 main - driver running !!
+30 Mar 2023 18:33:31,166 main -  Error in LogIn 
+30 Mar 2023 18:33:31,178 main - before Scenarios
+30 Mar 2023 18:33:31,178 main - Launch driver
+30 Mar 2023 18:33:31,178 main - driver start !!
+30 Mar 2023 18:33:31,178 main - driver running !!
+30 Mar 2023 18:33:47,653 main -  Error in LogIn 
+30 Mar 2023 18:33:47,660 main - before Scenarios
+30 Mar 2023 18:33:47,660 main - Launch driver
+30 Mar 2023 18:33:47,660 main - driver start !!
+30 Mar 2023 18:33:47,660 main - driver running !!
+30 Mar 2023 18:34:02,282 main -  Error in LogIn 
+30 Mar 2023 18:34:02,288 main - before Scenarios
+30 Mar 2023 18:34:02,288 main - Launch driver
+30 Mar 2023 18:34:02,288 main - driver start !!
+30 Mar 2023 18:34:02,288 main - driver running !!
+30 Mar 2023 18:34:16,919 main -  Error in LogIn 
+30 Mar 2023 18:34:16,952 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:16,953 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:34:16,954 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:34:16,955 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:34:16,955 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:34:17,012 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,012 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,012 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:34:17,013 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:34:17,013 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:34:17,102 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,103 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,103 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:34:17,103 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:34:17,103 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:34:17,111 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,112 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,112 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:34:17,112 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:34:17,113 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:34:17,114 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,114 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,115 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:34:17,115 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:34:17,115 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:34:17,116 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,117 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,117 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:34:17,117 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:34:17,117 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:34:17,119 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:34:17,119 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,120 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,121 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:34:17,121 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:34:17,121 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:34:17,126 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,127 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,127 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:34:17,128 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:34:17,128 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:34:17,133 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,133 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,134 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:34:17,134 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:34:17,134 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:34:17,135 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,137 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,137 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:34:17,138 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:34:17,138 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:34:17,150 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,150 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,151 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:34:17,151 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:34:17,152 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:34:17,174 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,175 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,176 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:34:17,176 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:34:17,176 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:34:17,190 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,191 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,191 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:34:17,191 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:34:17,192 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:34:17,219 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,220 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,220 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:34:17,220 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:34:17,220 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:34:17,226 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,226 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,227 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:34:17,227 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:34:17,227 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:34:17,228 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,229 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,229 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:34:17,229 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:34:17,229 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:34:17,230 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,231 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,231 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:34:17,231 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:34:17,231 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:34:17,232 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,232 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,233 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:34:17,233 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:34:17,233 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:34:17,234 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,234 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,234 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:34:17,234 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:34:17,234 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:34:17,260 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,262 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,262 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:34:17,263 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:34:17,263 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:34:17,265 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:34:17,266 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:34:17,266 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:34:17,267 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:34:17,267 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:34:31,218 main - before Scenarios
+30 Mar 2023 18:34:31,219 main - Launch driver
+30 Mar 2023 18:34:31,220 main - driver start !!
+30 Mar 2023 18:34:31,224 main - driver running !!
+30 Mar 2023 18:34:49,194 main -  Error in LogIn 
+30 Mar 2023 18:34:49,219 main - before Scenarios
+30 Mar 2023 18:34:49,219 main - Launch driver
+30 Mar 2023 18:34:49,219 main - driver start !!
+30 Mar 2023 18:34:49,219 main - driver running !!
+30 Mar 2023 18:35:03,745 main -  Error in LogIn 
+30 Mar 2023 18:35:03,756 main - before Scenarios
+30 Mar 2023 18:35:03,756 main - Launch driver
+30 Mar 2023 18:35:03,756 main - driver start !!
+30 Mar 2023 18:35:03,756 main - driver running !!
+30 Mar 2023 18:35:17,644 main -  Error in LogIn 
+30 Mar 2023 18:35:17,656 main - before Scenarios
+30 Mar 2023 18:35:17,657 main - Launch driver
+30 Mar 2023 18:35:17,657 main - driver start !!
+30 Mar 2023 18:35:17,657 main - driver running !!
+30 Mar 2023 18:35:32,191 main -  Error in LogIn 
+30 Mar 2023 18:35:32,197 main - before Scenarios
+30 Mar 2023 18:35:32,197 main - Launch driver
+30 Mar 2023 18:35:32,197 main - driver start !!
+30 Mar 2023 18:35:32,197 main - driver running !!
+30 Mar 2023 18:35:46,617 main -  Error in LogIn 
+30 Mar 2023 18:35:46,624 main - before Scenarios
+30 Mar 2023 18:35:46,624 main - Launch driver
+30 Mar 2023 18:35:46,624 main - driver start !!
+30 Mar 2023 18:35:46,624 main - driver running !!
+30 Mar 2023 18:36:00,932 main -  Error in LogIn 
+30 Mar 2023 18:36:00,974 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:00,974 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:36:00,975 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:36:00,975 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:36:00,975 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:36:01,014 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,015 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,015 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:36:01,015 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:36:01,015 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:36:01,080 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,081 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,081 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:36:01,081 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:36:01,081 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:36:01,085 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,085 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,086 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:36:01,086 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:36:01,086 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:36:01,087 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,087 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,087 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:36:01,088 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:36:01,088 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:36:01,089 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,089 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,089 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:36:01,089 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:36:01,089 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:36:01,092 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:36:01,092 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,092 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,092 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:36:01,092 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:36:01,092 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:36:01,098 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,098 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,098 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:36:01,099 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:36:01,099 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:36:01,101 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,101 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,101 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:36:01,102 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:36:01,102 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:36:01,102 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,102 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,103 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:36:01,103 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:36:01,103 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:36:01,107 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,108 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,108 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:36:01,108 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:36:01,108 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:36:01,116 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,116 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,116 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:36:01,116 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:36:01,117 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:36:01,125 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,126 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,126 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:36:01,126 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:36:01,126 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:36:01,145 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,145 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,145 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:36:01,146 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:36:01,146 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:36:01,152 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,152 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,153 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:36:01,153 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:36:01,153 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:36:01,154 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,154 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,154 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:36:01,154 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:36:01,154 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:36:01,155 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,155 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,155 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:36:01,155 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:36:01,156 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:36:01,156 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,156 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,156 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:36:01,157 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:36:01,157 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:36:01,157 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,157 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,157 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:36:01,158 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:36:01,158 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:36:01,177 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,177 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,177 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:36:01,177 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:36:01,177 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:36:01,178 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:36:01,178 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:36:01,178 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:36:01,179 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:36:01,179 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:41:21,978 main - before Scenarios
+30 Mar 2023 18:41:21,979 main - Launch driver
+30 Mar 2023 18:41:21,980 main - driver start !!
+30 Mar 2023 18:41:21,984 main - driver running !!
+30 Mar 2023 18:41:37,560 main -  Error in LogIn 
+30 Mar 2023 18:41:37,584 main - before Scenarios
+30 Mar 2023 18:41:37,584 main - Launch driver
+30 Mar 2023 18:41:37,584 main - driver start !!
+30 Mar 2023 18:41:37,584 main - driver running !!
+30 Mar 2023 18:41:52,030 main -  Error in LogIn 
+30 Mar 2023 18:41:52,038 main - before Scenarios
+30 Mar 2023 18:41:52,038 main - Launch driver
+30 Mar 2023 18:41:52,038 main - driver start !!
+30 Mar 2023 18:41:52,038 main - driver running !!
+30 Mar 2023 18:42:02,068 main -  Error in LogIn 
+30 Mar 2023 18:42:02,083 main - before Scenarios
+30 Mar 2023 18:42:02,083 main - Launch driver
+30 Mar 2023 18:42:02,083 main - driver start !!
+30 Mar 2023 18:42:02,083 main - driver running !!
+30 Mar 2023 18:42:12,144 main - before Scenarios
+30 Mar 2023 18:42:12,145 main - Launch driver
+30 Mar 2023 18:42:12,147 main - driver start !!
+30 Mar 2023 18:42:12,155 main - driver running !!
+30 Mar 2023 18:42:18,724 main -  Error in LogIn 
+30 Mar 2023 18:42:18,742 main - before Scenarios
+30 Mar 2023 18:42:18,742 main - Launch driver
+30 Mar 2023 18:42:18,742 main - driver start !!
+30 Mar 2023 18:42:18,742 main - driver running !!
+30 Mar 2023 18:42:29,144 main -  Error in LogIn 
+30 Mar 2023 18:42:29,169 main - before Scenarios
+30 Mar 2023 18:42:29,169 main - Launch driver
+30 Mar 2023 18:42:29,169 main - driver start !!
+30 Mar 2023 18:42:29,169 main - driver running !!
+30 Mar 2023 18:42:33,070 main -  Error in LogIn 
+30 Mar 2023 18:42:33,084 main - before Scenarios
+30 Mar 2023 18:42:33,084 main - Launch driver
+30 Mar 2023 18:42:33,084 main - driver start !!
+30 Mar 2023 18:42:33,084 main - driver running !!
+30 Mar 2023 18:42:43,061 main -  Error in LogIn 
+30 Mar 2023 18:42:43,071 main - before Scenarios
+30 Mar 2023 18:42:43,071 main - Launch driver
+30 Mar 2023 18:42:43,071 main - driver start !!
+30 Mar 2023 18:42:43,071 main - driver running !!
+30 Mar 2023 18:42:47,496 main -  Error in LogIn 
+30 Mar 2023 18:42:47,549 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,552 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,554 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:42:47,554 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:42:47,555 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:42:47,663 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,663 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,663 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:42:47,664 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:42:47,664 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:42:47,796 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,798 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,798 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:42:47,798 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:42:47,798 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:42:47,807 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,808 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,808 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:42:47,808 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:42:47,808 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:42:47,810 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,810 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,811 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:42:47,812 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:42:47,812 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:42:47,815 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,816 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,816 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:42:47,817 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:42:47,817 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:42:47,820 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:42:47,820 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,821 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,821 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:42:47,821 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:42:47,821 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:42:47,827 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,827 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,828 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:42:47,828 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:42:47,828 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:42:47,831 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,832 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,832 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:42:47,833 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:42:47,833 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:42:47,834 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,834 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,835 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:42:47,835 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:42:47,836 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:42:47,850 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,851 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,852 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:42:47,852 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:42:47,852 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:42:47,868 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,869 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,870 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:42:47,870 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:42:47,870 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:42:47,892 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,892 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,892 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:42:47,893 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:42:47,893 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:42:47,945 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,945 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,946 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:42:47,946 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:42:47,946 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:42:47,957 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,958 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,958 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:42:47,959 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:42:47,959 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:42:47,961 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,962 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,962 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:42:47,962 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:42:47,962 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:42:47,967 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,968 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,969 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:42:47,970 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:42:47,970 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:42:47,971 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,973 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,973 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:42:47,973 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:42:47,973 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:42:47,974 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:47,975 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:42:47,976 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:42:47,976 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:42:47,976 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:42:48,022 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:48,022 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:42:48,023 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:42:48,023 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:42:48,023 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:42:48,024 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:42:48,025 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:42:48,025 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:42:48,025 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:42:48,025 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:42:58,416 main -  Error in LogIn 
+30 Mar 2023 18:42:58,425 main - before Scenarios
+30 Mar 2023 18:42:58,425 main - Launch driver
+30 Mar 2023 18:42:58,425 main - driver start !!
+30 Mar 2023 18:42:58,425 main - driver running !!
+30 Mar 2023 18:43:13,308 main -  Error in LogIn 
+30 Mar 2023 18:43:13,314 main - before Scenarios
+30 Mar 2023 18:43:13,315 main - Launch driver
+30 Mar 2023 18:43:13,315 main - driver start !!
+30 Mar 2023 18:43:13,315 main - driver running !!
+30 Mar 2023 18:43:27,802 main -  Error in LogIn 
+30 Mar 2023 18:43:27,811 main - before Scenarios
+30 Mar 2023 18:43:27,811 main - Launch driver
+30 Mar 2023 18:43:27,811 main - driver start !!
+30 Mar 2023 18:43:27,811 main - driver running !!
+30 Mar 2023 18:43:42,540 main -  Error in LogIn 
+30 Mar 2023 18:43:42,576 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,577 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,579 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:43:42,579 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:43:42,579 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:43:42,624 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,624 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,624 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:43:42,625 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:43:42,625 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:43:42,699 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,699 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,699 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:43:42,700 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:43:42,700 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:43:42,706 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,706 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,706 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:43:42,707 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:43:42,707 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:43:42,708 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,708 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,708 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:43:42,708 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:43:42,708 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:43:42,709 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,710 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,710 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:43:42,710 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:43:42,710 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:43:42,712 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:43:42,712 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,712 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,712 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:43:42,713 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:43:42,713 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:43:42,717 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,717 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,717 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:43:42,718 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:43:42,718 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:43:42,720 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,720 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,721 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:43:42,721 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:43:42,721 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:43:42,722 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,722 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,722 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:43:42,722 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:43:42,722 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:43:42,733 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,733 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,733 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:43:42,733 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:43:42,733 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:43:42,745 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,746 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,746 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:43:42,747 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:43:42,747 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:43:42,758 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,758 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,758 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:43:42,759 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:43:42,759 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:43:42,779 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,779 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,779 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:43:42,780 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:43:42,780 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:43:42,784 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,784 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,784 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:43:42,785 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:43:42,785 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:43:42,785 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,786 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,786 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:43:42,786 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:43:42,786 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:43:42,787 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,787 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,787 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:43:42,787 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:43:42,787 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:43:42,788 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,788 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,788 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:43:42,789 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:43:42,789 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:43:42,789 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,790 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,790 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:43:42,790 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:43:42,790 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:43:42,809 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,809 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,809 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:43:42,809 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:43:42,809 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:43:42,810 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:43:42,810 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:43:42,810 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:43:42,811 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:43:42,811 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:44:14,409 main - before Scenarios
+30 Mar 2023 18:44:14,410 main - Launch driver
+30 Mar 2023 18:44:14,411 main - driver start !!
+30 Mar 2023 18:44:14,417 main - driver running !!
+30 Mar 2023 18:44:30,044 main -  Error in LogIn 
+30 Mar 2023 18:44:30,069 main - before Scenarios
+30 Mar 2023 18:44:30,069 main - Launch driver
+30 Mar 2023 18:44:30,069 main - driver start !!
+30 Mar 2023 18:44:30,069 main - driver running !!
+30 Mar 2023 18:44:43,957 main -  Error in LogIn 
+30 Mar 2023 18:44:43,970 main - before Scenarios
+30 Mar 2023 18:44:43,971 main - Launch driver
+30 Mar 2023 18:44:43,971 main - driver start !!
+30 Mar 2023 18:44:43,971 main - driver running !!
+30 Mar 2023 18:44:58,079 main -  Error in LogIn 
+30 Mar 2023 18:44:58,089 main - before Scenarios
+30 Mar 2023 18:44:58,089 main - Launch driver
+30 Mar 2023 18:44:58,089 main - driver start !!
+30 Mar 2023 18:44:58,089 main - driver running !!
+30 Mar 2023 18:47:47,371 main - before Scenarios
+30 Mar 2023 18:47:47,372 main - Launch driver
+30 Mar 2023 18:47:47,374 main - driver start !!
+30 Mar 2023 18:47:47,383 main - driver running !!
+30 Mar 2023 18:47:59,116 main -  Error in LogIn 
+30 Mar 2023 18:47:59,156 main - before Scenarios
+30 Mar 2023 18:47:59,156 main - Launch driver
+30 Mar 2023 18:47:59,157 main - driver start !!
+30 Mar 2023 18:47:59,157 main - driver running !!
+30 Mar 2023 18:48:09,195 main -  Error in LogIn 
+30 Mar 2023 18:48:09,209 main - before Scenarios
+30 Mar 2023 18:48:09,210 main - Launch driver
+30 Mar 2023 18:48:09,210 main - driver start !!
+30 Mar 2023 18:48:09,210 main - driver running !!
+30 Mar 2023 18:48:19,233 main -  Error in LogIn 
+30 Mar 2023 18:48:19,242 main - before Scenarios
+30 Mar 2023 18:48:19,242 main - Launch driver
+30 Mar 2023 18:48:19,242 main - driver start !!
+30 Mar 2023 18:48:19,242 main - driver running !!
+30 Mar 2023 18:48:28,127 main - before Scenarios
+30 Mar 2023 18:48:28,128 main - Launch driver
+30 Mar 2023 18:48:28,130 main - driver start !!
+30 Mar 2023 18:48:28,137 main - driver running !!
+30 Mar 2023 18:48:29,268 main -  Error in LogIn 
+30 Mar 2023 18:48:29,273 main - before Scenarios
+30 Mar 2023 18:48:29,273 main - Launch driver
+30 Mar 2023 18:48:29,273 main - driver start !!
+30 Mar 2023 18:48:29,273 main - driver running !!
+30 Mar 2023 18:48:47,113 main -  Error in LogIn 
+30 Mar 2023 18:48:47,127 main -  Error in LogIn 
+30 Mar 2023 18:48:47,133 main - before Scenarios
+30 Mar 2023 18:48:47,133 main - Launch driver
+30 Mar 2023 18:48:47,133 main - driver start !!
+30 Mar 2023 18:48:47,133 main - driver running !!
+30 Mar 2023 18:48:47,137 main - before Scenarios
+30 Mar 2023 18:48:47,138 main - Launch driver
+30 Mar 2023 18:48:47,138 main - driver start !!
+30 Mar 2023 18:48:47,138 main - driver running !!
+30 Mar 2023 18:49:02,011 main -  Error in LogIn 
+30 Mar 2023 18:49:02,022 main - before Scenarios
+30 Mar 2023 18:49:02,022 main - Launch driver
+30 Mar 2023 18:49:02,022 main - driver start !!
+30 Mar 2023 18:49:02,022 main - driver running !!
+30 Mar 2023 18:49:15,013 main -  Error in LogIn 
+30 Mar 2023 18:49:15,094 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,095 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,097 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:49:15,099 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:49:15,099 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:49:15,200 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,200 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,201 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:49:15,201 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:49:15,201 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:49:15,330 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,331 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,331 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:49:15,331 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:49:15,331 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:49:15,340 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,341 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,341 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:49:15,341 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:49:15,341 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:49:15,344 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,345 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,345 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:49:15,346 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:49:15,346 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:49:15,348 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,349 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,349 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:49:15,349 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:49:15,349 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:49:15,354 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:49:15,354 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,355 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,356 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:49:15,357 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:49:15,357 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:49:15,368 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,368 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,369 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:49:15,369 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:49:15,369 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:49:15,379 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,380 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,381 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:49:15,381 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:49:15,381 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:49:15,382 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,383 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,385 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:49:15,386 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:49:15,386 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:49:15,396 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,396 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,396 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:49:15,397 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:49:15,397 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:49:15,414 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,415 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,416 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:49:15,416 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:49:15,416 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:49:15,430 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,430 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,432 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:49:15,432 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:49:15,432 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:49:15,464 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,465 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,465 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:49:15,465 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:49:15,465 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:49:15,473 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,474 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,475 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:49:15,475 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:49:15,475 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:49:15,478 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,479 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,479 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:49:15,479 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:49:15,479 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:49:15,481 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,483 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,483 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:49:15,484 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:49:15,484 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:49:15,485 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,485 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,486 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:49:15,486 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:49:15,486 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:49:15,488 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,488 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,488 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:49:15,489 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:49:15,489 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:49:15,521 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,522 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,524 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:49:15,525 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:49:15,525 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:49:15,526 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:49:15,527 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:49:15,527 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:49:15,527 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:49:15,528 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 18:49:32,386 main -  Error in LogIn 
+30 Mar 2023 18:49:32,842 main - Entering the Logout Page Sucessfully
+30 Mar 2023 18:49:35,009 main - Error in Menu page 
+30 Mar 2023 18:49:35,482 main - before Scenarios
+30 Mar 2023 18:49:35,482 main - Launch driver
+30 Mar 2023 18:49:35,482 main - driver start !!
+30 Mar 2023 18:49:35,482 main - driver running !!
+30 Mar 2023 18:50:03,535 main -  Error in LogIn 
+30 Mar 2023 18:50:03,999 main - Entering the Logout Page Sucessfully
+30 Mar 2023 18:50:06,094 main - Error in Menu page 
+30 Mar 2023 18:50:06,537 main - before Scenarios
+30 Mar 2023 18:50:06,537 main - Launch driver
+30 Mar 2023 18:50:06,537 main - driver start !!
+30 Mar 2023 18:50:06,537 main - driver running !!
+30 Mar 2023 18:50:39,727 main -  Error in LogIn 
+30 Mar 2023 18:50:41,300 main - Entering the Logout Page Sucessfully
+30 Mar 2023 18:50:43,392 main - Error in Menu page 
+30 Mar 2023 18:50:44,737 main - before Scenarios
+30 Mar 2023 18:50:44,737 main - Launch driver
+30 Mar 2023 18:50:44,737 main - driver start !!
+30 Mar 2023 18:50:44,737 main - driver running !!
+30 Mar 2023 18:51:14,265 main -  Error in LogIn 
+30 Mar 2023 18:51:15,727 main - Entering the Logout Page Sucessfully
+30 Mar 2023 18:51:17,850 main - Error in Menu page 
+30 Mar 2023 18:51:19,304 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,304 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,305 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 18:51:19,306 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 18:51:19,306 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 18:51:19,351 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,351 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,352 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 18:51:19,352 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 18:51:19,352 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 18:51:19,414 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,414 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,414 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 18:51:19,414 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 18:51:19,414 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 18:51:19,418 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,419 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,419 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 18:51:19,419 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 18:51:19,420 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 18:51:19,421 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,421 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,421 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 18:51:19,421 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 18:51:19,421 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 18:51:19,422 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,423 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,423 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 18:51:19,423 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 18:51:19,423 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 18:51:19,425 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 18:51:19,426 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,426 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,426 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 18:51:19,426 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 18:51:19,427 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 18:51:19,431 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,432 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,432 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 18:51:19,432 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 18:51:19,432 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 18:51:19,436 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,436 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,437 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 18:51:19,437 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 18:51:19,437 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 18:51:19,439 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,439 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,439 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 18:51:19,439 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 18:51:19,439 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 18:51:19,443 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,444 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,444 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 18:51:19,444 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 18:51:19,444 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 18:51:19,452 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,452 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,452 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 18:51:19,453 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 18:51:19,453 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 18:51:19,462 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,462 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,462 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 18:51:19,463 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 18:51:19,463 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 18:51:19,479 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,480 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,480 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 18:51:19,480 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 18:51:19,480 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 18:51:19,483 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,484 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,484 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 18:51:19,484 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 18:51:19,484 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 18:51:19,485 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,485 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,485 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 18:51:19,485 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 18:51:19,485 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 18:51:19,486 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,486 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,486 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 18:51:19,487 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 18:51:19,487 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 18:51:19,487 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,487 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,488 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 18:51:19,488 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 18:51:19,488 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 18:51:19,488 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,488 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,489 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 18:51:19,489 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 18:51:19,489 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 18:51:19,506 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,506 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,507 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 18:51:19,507 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 18:51:19,507 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 18:51:19,507 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 18:51:19,508 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 18:51:19,508 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 18:51:19,508 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 18:51:19,508 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 19:03:06,961 main - before Scenarios
+30 Mar 2023 19:03:06,962 main - Launch driver
+30 Mar 2023 19:03:06,963 main - driver start !!
+30 Mar 2023 19:03:06,969 main - driver running !!
+30 Mar 2023 19:03:36,237 main -  Error in LogIn 
+30 Mar 2023 19:03:36,742 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:03:38,830 main - Error in Menu page 
+30 Mar 2023 19:03:39,187 main - before Scenarios
+30 Mar 2023 19:03:39,187 main - Launch driver
+30 Mar 2023 19:03:39,187 main - driver start !!
+30 Mar 2023 19:03:39,187 main - driver running !!
+30 Mar 2023 19:04:08,329 main -  Error in LogIn 
+30 Mar 2023 19:04:08,715 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:04:10,814 main - Error in Menu page 
+30 Mar 2023 19:04:11,298 main - before Scenarios
+30 Mar 2023 19:04:11,298 main - Launch driver
+30 Mar 2023 19:04:11,298 main - driver start !!
+30 Mar 2023 19:04:11,298 main - driver running !!
+30 Mar 2023 19:04:39,274 main -  Error in LogIn 
+30 Mar 2023 19:04:40,943 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:04:43,074 main - Error in Menu page 
+30 Mar 2023 19:04:44,566 main - before Scenarios
+30 Mar 2023 19:04:44,567 main - Launch driver
+30 Mar 2023 19:04:44,567 main - driver start !!
+30 Mar 2023 19:04:44,567 main - driver running !!
+30 Mar 2023 19:05:13,868 main -  Error in LogIn 
+30 Mar 2023 19:05:15,296 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:05:17,389 main - Error in Menu page 
+30 Mar 2023 19:05:18,803 main - before Scenarios
+30 Mar 2023 19:05:18,803 main - Launch driver
+30 Mar 2023 19:05:18,803 main - driver start !!
+30 Mar 2023 19:05:18,803 main - driver running !!
+30 Mar 2023 19:05:47,995 main -  Error in LogIn 
+30 Mar 2023 19:05:49,359 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:05:51,421 main - Error in Menu page 
+30 Mar 2023 19:05:52,834 main - before Scenarios
+30 Mar 2023 19:05:52,835 main - Launch driver
+30 Mar 2023 19:05:52,835 main - driver start !!
+30 Mar 2023 19:05:52,835 main - driver running !!
+30 Mar 2023 19:06:22,159 main -  Error in LogIn 
+30 Mar 2023 19:06:22,503 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:06:24,571 main - Error in Menu page 
+30 Mar 2023 19:06:24,971 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:24,972 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 19:06:24,974 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 19:06:24,975 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 19:06:24,975 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 19:06:25,022 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,022 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,022 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 19:06:25,022 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 19:06:25,022 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 19:06:25,111 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,112 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,112 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 19:06:25,112 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 19:06:25,112 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 19:06:25,119 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,119 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,120 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 19:06:25,121 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 19:06:25,121 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 19:06:25,122 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,123 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,123 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 19:06:25,123 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 19:06:25,123 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 19:06:25,125 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,125 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,125 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 19:06:25,126 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 19:06:25,126 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 19:06:25,128 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 19:06:25,128 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,128 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,128 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 19:06:25,129 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 19:06:25,129 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 19:06:25,134 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,134 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,134 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 19:06:25,135 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 19:06:25,135 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 19:06:25,137 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,137 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,137 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 19:06:25,137 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 19:06:25,137 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 19:06:25,138 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,138 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,138 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 19:06:25,139 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 19:06:25,139 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 19:06:25,146 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,147 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,147 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 19:06:25,147 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 19:06:25,148 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 19:06:25,159 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,159 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,159 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 19:06:25,160 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 19:06:25,160 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 19:06:25,171 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,172 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,172 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 19:06:25,173 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 19:06:25,173 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 19:06:25,194 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,194 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,194 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 19:06:25,195 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 19:06:25,195 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 19:06:25,195 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,196 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,196 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 19:06:25,196 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 19:06:25,196 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 19:06:25,197 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,197 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,198 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 19:06:25,198 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 19:06:25,198 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 19:06:25,199 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,199 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,199 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 19:06:25,200 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 19:06:25,200 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 19:06:25,201 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,201 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,201 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 19:06:25,201 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 19:06:25,202 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 19:06:25,202 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,203 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,203 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 19:06:25,203 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 19:06:25,203 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 19:06:25,229 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,229 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,229 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 19:06:25,230 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 19:06:25,230 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 19:06:25,231 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:06:25,231 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 19:06:25,231 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 19:06:25,231 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 19:06:25,231 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+30 Mar 2023 19:06:39,079 main - before Scenarios
+30 Mar 2023 19:06:39,080 main - Launch driver
+30 Mar 2023 19:06:39,081 main - driver start !!
+30 Mar 2023 19:06:39,086 main - driver running !!
+30 Mar 2023 19:07:07,413 main -  Error in LogIn 
+30 Mar 2023 19:07:08,913 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:07:11,001 main - Error in Menu page 
+30 Mar 2023 19:07:12,422 main - before Scenarios
+30 Mar 2023 19:07:12,422 main - Launch driver
+30 Mar 2023 19:07:12,422 main - driver start !!
+30 Mar 2023 19:07:12,422 main - driver running !!
+30 Mar 2023 19:07:39,765 main -  Error in LogIn 
+30 Mar 2023 19:07:41,215 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:07:43,285 main - Error in Menu page 
+30 Mar 2023 19:07:44,682 main - before Scenarios
+30 Mar 2023 19:07:44,682 main - Launch driver
+30 Mar 2023 19:07:44,682 main - driver start !!
+30 Mar 2023 19:07:44,682 main - driver running !!
+30 Mar 2023 19:08:23,768 main -  Error in LogIn 
+30 Mar 2023 19:08:25,209 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:08:27,289 main - Error in Menu page 
+30 Mar 2023 19:08:28,717 main - before Scenarios
+30 Mar 2023 19:08:28,717 main - Launch driver
+30 Mar 2023 19:08:28,717 main - driver start !!
+30 Mar 2023 19:08:28,717 main - driver running !!
+30 Mar 2023 19:08:55,935 main -  Error in LogIn 
+30 Mar 2023 19:08:57,380 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:08:59,471 main - Error in Menu page 
+30 Mar 2023 19:09:00,865 main - before Scenarios
+30 Mar 2023 19:09:00,865 main - Launch driver
+30 Mar 2023 19:09:00,865 main - driver start !!
+30 Mar 2023 19:09:00,865 main - driver running !!
+30 Mar 2023 19:09:39,875 main -  Error in LogIn 
+30 Mar 2023 19:09:41,215 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:09:43,297 main - Error in Menu page 
+30 Mar 2023 19:09:44,739 main - before Scenarios
+30 Mar 2023 19:09:44,739 main - Launch driver
+30 Mar 2023 19:09:44,739 main - driver start !!
+30 Mar 2023 19:09:44,739 main - driver running !!
+30 Mar 2023 19:10:12,142 main -  Error in LogIn 
+30 Mar 2023 19:10:12,512 main - Entering the Logout Page Sucessfully
+30 Mar 2023 19:10:14,580 main - Error in Menu page 
+30 Mar 2023 19:10:15,046 main - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,047 main - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,049 main - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+30 Mar 2023 19:10:15,049 main - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+30 Mar 2023 19:10:15,050 main - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+30 Mar 2023 19:10:15,105 main - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,105 main - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,106 main - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+30 Mar 2023 19:10:15,106 main - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+30 Mar 2023 19:10:15,106 main - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+30 Mar 2023 19:10:15,195 main - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,195 main - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,196 main - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+30 Mar 2023 19:10:15,196 main - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+30 Mar 2023 19:10:15,196 main - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+30 Mar 2023 19:10:15,203 main - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,204 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,204 main - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+30 Mar 2023 19:10:15,204 main - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+30 Mar 2023 19:10:15,204 main - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+30 Mar 2023 19:10:15,206 main - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,207 main - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,208 main - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+30 Mar 2023 19:10:15,208 main - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+30 Mar 2023 19:10:15,208 main - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+30 Mar 2023 19:10:15,210 main - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,211 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,211 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+30 Mar 2023 19:10:15,212 main - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+30 Mar 2023 19:10:15,212 main - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+30 Mar 2023 19:10:15,215 main - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+30 Mar 2023 19:10:15,216 main - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,216 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,217 main - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+30 Mar 2023 19:10:15,217 main - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+30 Mar 2023 19:10:15,217 main - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+30 Mar 2023 19:10:15,224 main - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,224 main - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,225 main - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+30 Mar 2023 19:10:15,225 main - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+30 Mar 2023 19:10:15,225 main - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+30 Mar 2023 19:10:15,230 main - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,230 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,230 main - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+30 Mar 2023 19:10:15,231 main - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+30 Mar 2023 19:10:15,231 main - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+30 Mar 2023 19:10:15,232 main - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,233 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,233 main - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+30 Mar 2023 19:10:15,234 main - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+30 Mar 2023 19:10:15,234 main - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+30 Mar 2023 19:10:15,242 main - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,243 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,243 main - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+30 Mar 2023 19:10:15,243 main - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+30 Mar 2023 19:10:15,244 main - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+30 Mar 2023 19:10:15,257 main - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,257 main - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,257 main - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+30 Mar 2023 19:10:15,257 main - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+30 Mar 2023 19:10:15,258 main - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+30 Mar 2023 19:10:15,267 main - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,267 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,268 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+30 Mar 2023 19:10:15,268 main - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+30 Mar 2023 19:10:15,268 main - Loading template for "spark/partials/bdd-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+30 Mar 2023 19:10:15,288 main - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,289 main - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,289 main - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+30 Mar 2023 19:10:15,289 main - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+30 Mar 2023 19:10:15,289 main - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+30 Mar 2023 19:10:15,290 main - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,291 main - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,291 main - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+30 Mar 2023 19:10:15,291 main - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+30 Mar 2023 19:10:15,291 main - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+30 Mar 2023 19:10:15,293 main - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,294 main - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,294 main - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+30 Mar 2023 19:10:15,295 main - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+30 Mar 2023 19:10:15,295 main - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+30 Mar 2023 19:10:15,296 main - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,296 main - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,297 main - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+30 Mar 2023 19:10:15,297 main - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+30 Mar 2023 19:10:15,297 main - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+30 Mar 2023 19:10:15,298 main - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,298 main - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,299 main - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+30 Mar 2023 19:10:15,299 main - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+30 Mar 2023 19:10:15,299 main - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+30 Mar 2023 19:10:15,300 main - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,300 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,301 main - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+30 Mar 2023 19:10:15,301 main - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+30 Mar 2023 19:10:15,301 main - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+30 Mar 2023 19:10:15,330 main - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,330 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,330 main - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+30 Mar 2023 19:10:15,331 main - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+30 Mar 2023 19:10:15,331 main - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+30 Mar 2023 19:10:15,331 main - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+30 Mar 2023 19:10:15,332 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+30 Mar 2023 19:10:15,332 main - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+30 Mar 2023 19:10:15,332 main - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+30 Mar 2023 19:10:15,332 main - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/fbdev/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
